@@ -1,0 +1,176 @@
+,Symbol,Transaction Count,Block Pur Vol,Date, SecurityType, Industry, Sector
+0,AAP,1,822294.0,8/7/2020,Equity,Retail - Automotive,Retail
+1,AAPL,9,1639542.0,8/7/2020,Equity,Computer Hardware & Equipment,IT Hardware
+10,ADBE,5,1189000.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+15,AKAM,1,167219.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+16,AMAT,2,344000.0,8/7/2020,Equity,Semiconductors,IT Hardware
+18,AMD,1,185000.0,8/7/2020,Equity,Semiconductors,IT Hardware
+19,AMTD,1,275000.0,8/7/2020,Equity,Finance Intermediaries & Services,Investments & Brokers
+20,APO,1,353028.0,8/7/2020,Equity,Finance Intermediaries & Services,Investments & Brokers
+21,AQUA,1,388504.0,8/7/2020,Equity,Industrial Machinery & Equipment,Machinery
+22,ARMK,1,492537.0,8/7/2020,Equity,"Hotels, Restaurants & Travel",Consumer Services
+23,ATGE,1,147700.0,8/7/2020,Equity,Educational Services,Consumer Services
+24,AXP,1,240000.0,8/7/2020,Equity,Credit & Lending,Credit & Lending
+25,AXS,1,316652.0,8/7/2020,Equity,General Insurance,Insurance
+26,AZO,1,52376.0,8/7/2020,Equity,Retail - Automotive,Retail
+27,BABA,2,361247.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+29,BAC,7,2364141.0,8/7/2020,Equity,Banking,Banking & Savings
+36,BAX,2,441306.0,8/7/2020,Equity,Medical Instruments & Equipment,Health Care Equipment
+38,BBBY,1,500000.0,8/7/2020,Equity,Retail - Furniture & Home Furnishings,Retail
+39,BERY,1,149600.0,8/7/2020,Equity,Plastics,Synthetic Materials
+40,BGCP,1,3526504.0,8/7/2020,Equity,Finance Intermediaries & Services,Investments & Brokers
+41,BIDU,1,100000.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+42,BMY,3,921130.0,8/7/2020,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology
+45,BRK.B,1,500000.0,8/7/2020,Equity,General Insurance,Insurance
+46,BSX,1,162290.0,8/7/2020,Equity,Medical Instruments & Equipment,Health Care Equipment
+47,BYD,1,200000.0,8/7/2020,Equity,"Hotels, Restaurants & Travel",Consumer Services
+48,C,2,884800.0,8/7/2020,Equity,Banking,Banking & Savings
+50,CALA,1,2504300.0,8/7/2020,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology
+51,CCXX,1,2200000.0,8/7/2020,Equity,Business Services,Commercial Services & Supplies
+52,CDK,1,147600.0,8/7/2020,Equity,Business Services,Commercial Services & Supplies
+53,CHRS,1,266650.0,8/7/2020,Equity,Biotechnology,Pharmaceuticals & Biotechnology
+54,CMCSA,2,264111.0,8/7/2020,Equity,Radio & Television,Media
+56,CMS,1,138359.0,8/7/2020,Equity,Electric Utilities,Electric Utilities
+57,CNP,1,248444.0,8/7/2020,Equity,Electric Utilities,Electric Utilities
+58,COF,2,606900.0,8/7/2020,Equity,Credit & Lending,Credit & Lending
+60,COLD,1,249700.0,8/7/2020,Equity,REITs,Real Estate
+61,CRM,1,665520.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+62,CSCO,2,456211.0,8/7/2020,Equity,Manufacturing,Communications
+64,CSX,2,456225.0,8/7/2020,Equity,Rail,Transport
+66,CTSH,1,100940.0,8/7/2020,Equity,IT Services,IT Services & Software
+67,CXO,1,161491.0,8/7/2020,Equity,Production & Extraction,Oil & Gas
+68,DBX,2,1739046.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+70,DCPH,1,119400.0,8/7/2020,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology
+71,DIS,2,704700.0,8/7/2020,Equity,Entertainment,Media
+73,DISH,1,225000.0,8/7/2020,Equity,Radio & Television,Media
+74,DOYU,1,372776.0,8/7/2020,Equity,IT Services,IT Services & Software
+75,DRE,1,169562.0,8/7/2020,Equity,REITs,Real Estate
+76,DT,1,180000.0,8/7/2020,Equity,IT Services,IT Services & Software
+77,DXC,1,400000.0,8/7/2020,Equity,IT Services,IT Services & Software
+78,EBAY,1,274800.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+79,EGHT,1,1015231.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+80,EMR,1,258850.0,8/7/2020,Equity,Electrical Equipment,Electrical Equipment
+81,EPD,1,310000.0,8/7/2020,Equity,Equipment & Services,Oil & Gas
+82,EXC,2,658913.0,8/7/2020,Equity,Electric Utilities,Electric Utilities
+84,EXEL,1,411970.0,8/7/2020,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology
+85,EYE,2,563400.0,8/7/2020,Equity,Medical Instruments & Equipment,Health Care Equipment
+87,FB,3,1625802.0,8/7/2020,Equity,Entertainment,Media
+90,FDX,1,100000.0,8/7/2020,Equity,Airlines/Air Freight,Transport
+91,FE,4,1849716.0,8/7/2020,Equity,Electric Utilities,Electric Utilities
+95,FIS,3,599600.0,8/7/2020,Equity,Business Services,Commercial Services & Supplies
+98,FISV,2,519811.0,8/7/2020,Equity,IT Services,IT Services & Software
+100,FOXA,2,872379.0,8/7/2020,Equity,Radio & Television,Media
+102,FPAC,1,500000.0,8/7/2020,Equity,Miscellaneous,Miscellaneous
+103,FTCH,1,343800.0,8/7/2020,Equity,Business Services,Commercial Services & Supplies
+104,FTNT,1,120000.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+105,G,3,879200.0,8/7/2020,Equity,Business Services,Commercial Services & Supplies
+108,GD,1,117340.0,8/7/2020,Equity,Aerospace,Aerospace & Defense
+109,GE,3,11373284.0,8/7/2020,Equity,Electrical Equipment,Electrical Equipment
+112,GILD,2,203125.0,8/7/2020,Equity,Biotechnology,Pharmaceuticals & Biotechnology
+114,GOOG,6,317100.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+120,GOOGL,1,97595.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+121,GRUB,1,180000.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+122,GSK,1,167227.0,8/7/2020,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology
+123,GSX,3,1005870.0,8/7/2020,Equity,Educational Services,Consumer Services
+126,HAE,1,100000.0,8/7/2020,Equity,Medical Instruments & Equipment,Health Care Equipment
+127,HAL,1,872600.0,8/7/2020,Equity,Equipment & Services,Oil & Gas
+128,HBAN,1,549110.0,8/7/2020,Equity,Banking,Banking & Savings
+129,HLF,2,950000.0,8/7/2020,Equity,Household & Personal Products,Household & Personal Products
+131,HOME,1,594673.0,8/7/2020,Equity,Furniture,Consumer Goods
+132,HON,1,342991.0,8/7/2020,Equity,Auto Parts,Autos & Auto Parts
+133,HST,1,450000.0,8/7/2020,Equity,REITs,Real Estate
+134,HZNP,1,138300.0,8/7/2020,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology
+135,INFY,1,558541.0,8/7/2020,Equity,IT Services,IT Services & Software
+136,ING,1,877705.0,8/7/2020,Equity,Banking,Banking & Savings
+137,INTC,5,8492667.0,8/7/2020,Equity,Semiconductors,IT Hardware
+142,IONS,1,249100.0,8/7/2020,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology
+143,IP,1,142571.0,8/7/2020,Equity,Containers & Packaging,Paper & Forest Products
+144,IPG,1,655812.0,8/7/2020,Equity,Advertising,Media
+145,IR,3,687776.0,8/7/2020,Equity,Industrial Machinery & Equipment,Machinery
+148,IRM,1,231997.0,8/7/2020,Equity,Business Services,Commercial Services & Supplies
+149,JPM,4,550016.0,8/7/2020,Equity,Banking,Banking & Savings
+153,KAR,1,357868.0,8/7/2020,Equity,Retail - Automotive,Retail
+154,KO,3,1023230.0,8/7/2020,Equity,Beverages,Food & Beverage
+157,MCHP,2,262800.0,8/7/2020,Equity,Semiconductors,IT Hardware
+159,MDLZ,2,270727.0,8/7/2020,Equity,Food,Food & Beverage
+161,MDT,1,116700.0,8/7/2020,Equity,Medical Instruments & Equipment,Health Care Equipment
+162,MELI,1,44364.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+163,MET,1,261511.0,8/7/2020,Equity,Life & Health,Insurance
+164,MIDD,1,163778.0,8/7/2020,Equity,Industrial Machinery & Equipment,Machinery
+165,MO,3,830112.0,8/7/2020,Equity,Tobacco Products,Tobacco
+168,MRK,1,141418.0,8/7/2020,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology
+169,MRVL,2,981170.0,8/7/2020,Equity,Semiconductors,IT Hardware
+171,MSFT,8,2593002.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+179,MXIM,4,666400.0,8/7/2020,Equity,Semiconductors,IT Hardware
+183,NAV,1,174075.0,8/7/2020,Equity,Autos- Manufacturing,Autos & Auto Parts
+184,NET,1,137679.0,8/7/2020,Equity,IT Services,IT Services & Software
+185,NFLX,2,372000.0,8/7/2020,Equity,Entertainment,Media
+187,NKE,1,120600.0,8/7/2020,Equity,"Apparel, Footwear & Accessories",Textiles & Apparel
+188,NKLA,1,795609.0,8/7/2020,Equity,Miscellaneous,Miscellaneous
+189,NOC,1,107192.0,8/7/2020,Equity,Defense,Aerospace & Defense
+190,NRIX,1,598292.0,8/7/2020,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology
+191,NSC,1,123878.0,8/7/2020,Equity,Rail,Transport
+192,OCFC,1,390675.0,8/7/2020,Equity,Banking,Banking & Savings
+193,OSUR,1,379254.0,8/7/2020,Equity,Medical Instruments & Equipment,Health Care Equipment
+194,OXY,1,400000.0,8/7/2020,Equity,Production & Extraction,Oil & Gas
+195,PDD,1,234040.0,8/7/2020,Equity,Business Services,Commercial Services & Supplies
+196,PENN,3,617100.0,8/7/2020,Equity,"Hotels, Restaurants & Travel",Consumer Services
+199,PEP,2,443126.0,8/7/2020,Equity,Beverages,Food & Beverage
+201,PFE,1,200000.0,8/7/2020,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology
+202,PG,3,548960.0,8/7/2020,Equity,Household & Personal Products,Household & Personal Products
+205,PINS,3,603100.0,8/7/2020,Equity,Entertainment,Media
+208,PM,1,101640.0,8/7/2020,Equity,Tobacco Products,Tobacco
+209,PNC,1,119900.0,8/7/2020,Equity,Banking,Banking & Savings
+210,PRAH,1,100000.0,8/7/2020,Equity,Biotechnology,Pharmaceuticals & Biotechnology
+211,PTCT,1,742360.0,8/7/2020,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology
+212,PYPL,3,514475.0,8/7/2020,Equity,Miscellaneous Consumer Services,Consumer Services
+215,QGEN,2,285110.0,8/7/2020,Equity,Biotechnology,Pharmaceuticals & Biotechnology
+217,QSR,1,100000.0,8/7/2020,Equity,"Hotels, Restaurants & Travel",Consumer Services
+218,REXR,1,238077.0,8/7/2020,Equity,REITs,Real Estate
+219,RKT,1,200019.0,8/7/2020,Equity,Finance Intermediaries & Services,Investments & Brokers
+220,ROKU,1,105005.0,8/7/2020,Equity,Entertainment,Media
+221,ROST,1,141515.0,8/7/2020,Equity,Retail - Apparel and Accessories,Retail
+222,RTX,2,236878.0,8/7/2020,Equity,Aerospace,Aerospace & Defense
+224,SAIL,1,250000.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+225,SBUX,1,605390.0,8/7/2020,Equity,"Hotels, Restaurants & Travel",Consumer Services
+226,SCHW,1,553569.0,8/7/2020,Equity,Finance Intermediaries & Services,Investments & Brokers
+227,SEE,1,166300.0,8/7/2020,Equity,Containers & Packaging,Paper & Forest Products
+228,SLM,1,1011393.0,8/7/2020,Equity,Credit & Lending,Credit & Lending
+229,SMAR,1,170000.0,8/7/2020,Equity,IT Services,IT Services & Software
+230,SNAP,2,1612438.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+232,SNY,3,546440.0,8/7/2020,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology
+235,SPG,1,170000.0,8/7/2020,Equity,REITs,Real Estate
+236,SQ,1,100000.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+237,ST,1,154700.0,8/7/2020,Equity,Electrical Equipment,Electrical Equipment
+238,STNE,1,100000.0,8/7/2020,Equity,IT Services,IT Services & Software
+239,SYY,2,217774.0,8/7/2020,Equity,"Retail - Food & Beverage, Drug & Tobacco",Retail
+241,T,2,513796.0,8/7/2020,Equity,Services,Communications
+243,TEAM,1,125000.0,8/7/2020,Equity,IT Services,IT Services & Software
+244,TIF,1,225000.0,8/7/2020,Equity,Retail - Specialty,Retail
+245,TJX,1,150000.0,8/7/2020,Equity,Retail - Apparel and Accessories,Retail
+246,TNDM,1,113500.0,8/7/2020,Equity,Medical Instruments & Equipment,Health Care Equipment
+247,TSN,1,119202.0,8/7/2020,Equity,Food,Food & Beverage
+248,TWLO,3,424174.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+251,TXN,1,125000.0,8/7/2020,Equity,Semiconductors,IT Hardware
+252,UBER,5,1186800.0,8/7/2020,Equity,IT Services,IT Services & Software
+257,UN,3,1612680.0,8/7/2020,Equity,Household & Personal Products,Household & Personal Products
+260,USB,1,138357.0,8/7/2020,Equity,Banking,Banking & Savings
+261,VALE,2,1050000.0,8/7/2020,Equity,Non-Precious Metals,Metals & Mining
+263,VAR,1,183300.0,8/7/2020,Equity,Medical Instruments & Equipment,Health Care Equipment
+264,VIAC,2,488700.0,8/7/2020,Equity,Radio & Television,Media
+266,VNO,1,165800.0,8/7/2020,Equity,REITs,Real Estate
+267,VZ,2,480063.0,8/7/2020,Equity,Services,Communications
+269,WFC,5,5611040.0,8/7/2020,Equity,Banking,Banking & Savings
+274,WMS,1,410216.0,8/7/2020,Equity,Plastics,Synthetic Materials
+275,WMT,2,270696.0,8/7/2020,Equity,Retail - General Merchandise/Department Stores,Retail
+277,WPC,1,100000.0,8/7/2020,Equity,REITs,Real Estate
+278,WPF,2,1000000.0,8/7/2020,Equity,Services,Communications
+280,WU,1,280000.0,8/7/2020,Equity,Business Services,Commercial Services & Supplies
+281,WUBA,2,453300.0,8/7/2020,Equity,IT Services,IT Services & Software
+283,XLRN,1,292922.0,8/7/2020,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology
+284,XOM,3,541270.0,8/7/2020,Equity,Production & Extraction,Oil & Gas
+287,Z,3,613601.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+290,ZEN,1,276800.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+291,ZLAB,1,197790.0,8/7/2020,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology
+292,ZNGA,3,2540000.0,8/7/2020,Equity,Internet & Software,IT Services & Software
+295,ZTO,1,209593.0,8/7/2020,Equity,Shipping,Transport

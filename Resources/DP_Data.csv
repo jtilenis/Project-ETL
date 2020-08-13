@@ -1,300 +1,300 @@
-Date, Timestamp, Ticker,  Volume ,  Price , % of 30DayAvg, Notional, Message, SecurityType, Industry, Sector,  30DayAverage , Float, EarningsDate
-8/7/2020,9:00:49 AM,AAP," 822,294 ", $153.00 ,105%,$125.0M,DARK BLOCK,Equity,Retail - Automotive,Retail," 782,631 ",66,20200818
-8/7/2020,8:48:27 AM,AAPL," 180,000 ", $452.04 ,0%,$81.0M,BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
-8/7/2020,9:25:39 AM,AAPL," 100,000 ", $448.62 ,0%,$44.0M,BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
-8/7/2020,9:25:56 AM,AAPL," 163,000 ", $448.62 ,0%,$73.0M,BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
-8/7/2020,12:30:18 PM,AAPL," 215,000 ", $443.62 ,1%,$95.0M,BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
-8/7/2020,1:30:22 PM,AAPL," 100,000 ", $442.32 ,0%,$44.0M,DARK BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
-8/7/2020,3:00:08 PM,AAPL," 134,726 ", $444.45 ,0%,$59.0M,DARK BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
-8/7/2020,3:00:08 PM,AAPL," 199,800 ", $444.45 ,1%,$88.0M,DARK BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
-8/7/2020,3:39:34 PM,AAPL," 184,647 ", $444.45 ,1%,$82.0M,DARK BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
-8/7/2020,3:58:47 PM,AAPL," 362,369 ", $444.45 ,1%,$161.0M,DARK BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
-8/7/2020,12:58:50 PM,ADBE," 394,500 ", $446.07 ,16%,$175.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 2,524,027 ",478,20200915
-8/7/2020,1:01:33 PM,ADBE," 400,000 ", $446.86 ,16%,$178.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 2,524,027 ",478,20200915
-8/7/2020,1:10:10 PM,ADBE," 112,000 ", $446.07 ,4%,$49.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 2,524,027 ",478,20200915
-8/7/2020,1:10:44 PM,ADBE," 129,500 ", $446.07 ,5%,$57.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 2,524,027 ",478,20200915
-8/7/2020,1:11:36 PM,ADBE," 153,000 ", $446.07 ,6%,$68.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 2,524,027 ",478,20200915
-8/7/2020,8:45:24 AM,AKAM," 167,219 ", $109.09 ,9%,$18.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 1,796,950 ",158,20201026
-8/7/2020,9:10:20 AM,AMAT," 244,000 ", $64.53 ,4%,$15.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 5,967,707 ",912,20200813
-8/7/2020,10:28:50 AM,AMAT," 100,000 ", $64.00 ,2%,$6.3M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 5,967,707 ",912,20200813
-8/7/2020,1:24:58 PM,AMD," 185,000 ", $83.20 ,0%,$15.0M,BLOCK,Equity,Semiconductors,IT Hardware," 69,591,819 ",1156,20201103
-8/7/2020,3:00:02 PM,AMTD," 275,000 ", $36.84 ,8%,$10.0M,DARK BLOCK,Equity,Finance Intermediaries & Services,Investments & Brokers," 3,428,121 ",538,20201019
-8/7/2020,3:10:46 PM,APO," 353,028 ", $48.78 ,21%,$17.0M,DARK BLOCK,Equity,Finance Intermediaries & Services,Investments & Brokers," 1,657,141 ",228,20201029
-8/7/2020,9:50:15 AM,AQUA," 388,504 ", $20.72 ,66%,$8.0M,DARK BLOCK,Equity,Industrial Machinery & Equipment,Machinery," 588,169 ",116,20201119
-8/7/2020,3:00:12 PM,ARMK," 492,537 ", $23.58 ,21%,$11.0M,DARK BLOCK,Equity,"Hotels, Restaurants & Travel",Consumer Services," 2,309,084 ",244,20201117
-8/7/2020,3:02:16 PM,ATGE," 147,700 ", $36.01 ,36%,$5.3M,DARK AVGPRC,Equity,Educational Services,Consumer Services," 412,565 ",51,20200818
-8/7/2020,12:26:43 PM,AXP," 240,000 ", $97.56 ,6%,$23.0M,BLOCK,Equity,Credit & Lending,Credit & Lending," 4,234,974 ",803,20201016
-8/7/2020,10:50:29 AM,AXS," 316,652 ", $43.50 ,32%,$13.0M,DARK ISOAADay,Equity,General Insurance,Insurance," 977,711 ",82,20201103
-8/7/2020,3:02:16 PM,AZO," 52,376 "," $1,182.22 ",28%,$61.0M,DARK AVGPRC,Equity,Retail - Automotive,Retail," 186,658 ",22,20200922
-8/7/2020,7:00:05 AM,BABA," 250,000 ", $265.68 ,1%,$66.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 17,639,886 ",2226,20200820
-8/7/2020,4:00:16 PM,BABA," 111,247 ", $252.10 ,1%,$28.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 17,639,886 ",2226,20200820
-8/7/2020,11:26:38 AM,BAC," 250,000 ", $25.62 ,0%,$6.4M,DARK BLOCK,Equity,Banking,Banking & Savings," 63,277,782 ",8658,20201021
-8/7/2020,3:00:08 PM,BAC," 376,500 ", $26.11 ,1%,$9.8M,DARK BLOCK,Equity,Banking,Banking & Savings," 63,277,782 ",8658,20201021
-8/7/2020,3:00:08 PM,BAC," 472,000 ", $26.11 ,1%,$12.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 63,277,782 ",8658,20201021
-8/7/2020,3:00:08 PM,BAC," 452,370 ", $26.11 ,1%,$11.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 63,277,782 ",8658,20201021
-8/7/2020,3:00:18 PM,BAC," 235,000 ", $26.11 ,0%,$6.1M,DARK BLOCK,Equity,Banking,Banking & Savings," 63,277,782 ",8658,20201021
-8/7/2020,3:27:49 PM,BAC," 320,124 ", $26.11 ,1%,$8.3M,DARK BLOCK,Equity,Banking,Banking & Savings," 63,277,782 ",8658,20201021
-8/7/2020,3:57:56 PM,BAC," 258,147 ", $26.11 ,0%,$6.7M,DARK BLOCK,Equity,Banking,Banking & Savings," 63,277,782 ",8658,20201021
-8/7/2020,9:16:43 AM,BAX," 155,506 ", $80.35 ,5%,$12.0M,DARK ISO,Equity,Medical Instruments & Equipment,Health Care Equipment," 3,170,692 ",505,20201029
-8/7/2020,9:57:50 AM,BAX," 285,800 ", $80.00 ,9%,$22.0M,DARK ISOBBDay,Equity,Medical Instruments & Equipment,Health Care Equipment," 3,170,692 ",505,20201029
-8/7/2020,2:47:53 PM,BBBY," 500,000 ", $12.13 ,4%,$6.0M,DARK BLOCK,Equity,Retail - Furniture & Home Furnishings,Retail," 12,870,760 ",124,20201007
-8/7/2020,9:16:23 AM,BERY," 149,600 ", $52.80 ,11%,$7.8M,DARK BLOCK,Equity,Plastics,Synthetic Materials," 1,311,265 ",129,20201119
-8/7/2020,3:02:16 PM,BGCP," 3,526,504 ", $2.89 ,74%,$10.0M,DARK AVGPRC,Equity,Finance Intermediaries & Services,Investments & Brokers," 4,772,170 ",248,20201022
-8/7/2020,1:40:19 PM,BIDU," 100,000 ", $122.85 ,3%,$12.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 2,904,070 ",345,20200813
-8/7/2020,10:26:03 AM,BMY," 100,204 ", $61.44 ,1%,$6.1M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 10,887,040 ",2259,20200806
-8/7/2020,3:00:09 PM,BMY," 699,043 ", $61.02 ,6%,$42.0M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 10,887,040 ",2259,20200806
-8/7/2020,3:00:09 PM,BMY," 121,883 ", $61.02 ,1%,$7.4M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 10,887,040 ",2259,20200806
-8/7/2020,1:11:19 PM,BRK.B," 500,000 ", $208.33 ,8%,$104.0M,BLOCK,Equity,General Insurance,Insurance," 5,929,747 ",2283,20200807
-8/7/2020,3:10:46 PM,BSX," 162,290 ", $38.97 ,2%,$6.3M,DARK BLOCK,Equity,Medical Instruments & Equipment,Health Care Equipment," 9,798,084 ",1389,20201028
-8/7/2020,1:20:27 PM,BYD," 200,000 ", $25.40 ,8%,$5.0M,DARK ISOAA,Equity,"Hotels, Restaurants & Travel",Consumer Services," 2,509,225 ",78,20201027
-8/7/2020,3:04:17 PM,C," 734,800 ", $52.12 ,3%,$38.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 21,390,854 ",2080,20201020
-8/7/2020,3:04:17 PM,C," 150,000 ", $52.12 ,1%,$7.8M,DARK BLOCK,Equity,Banking,Banking & Savings," 21,390,854 ",2080,20201020
-8/7/2020,9:40:48 AM,CALA," 2,504,300 ", $4.70 ,447%,$11.0M,DARK ISOBBDay,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 560,584 ",62,20200810
-8/7/2020,1:36:47 PM,CCXX," 2,200,000 ", $10.73 ,75%,$23.0M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 2,918,587 ",0,N/A
-8/7/2020,3:00:03 PM,CDK," 147,600 ", $46.89 ,24%,$6.9M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 619,871 ",121,20201103
-8/7/2020,3:06:17 PM,CHRS," 266,650 ", $19.62 ,27%,$5.2M,DARK AVGPRC,Equity,Biotechnology,Pharmaceuticals & Biotechnology," 998,128 ",59,20200806
-8/7/2020,3:00:06 PM,CMCSA," 146,000 ", $42.81 ,1%,$6.2M,DARK BLOCK,Equity,Radio & Television,Media," 19,444,277 ",4502,20201022
-8/7/2020,3:10:46 PM,CMCSA," 118,111 ", $42.81 ,1%,$5.0M,DARK BLOCK,Equity,Radio & Television,Media," 19,444,277 ",4502,20201022
-8/7/2020,8:57:35 AM,CMS," 138,359 ", $61.46 ,8%,$8.5M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 1,776,262 ",284,20201022
-8/7/2020,3:58:46 PM,CNP," 248,444 ", $20.41 ,3%,$5.0M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 7,771,329 ",543,20200806
-8/7/2020,3:00:07 PM,COF," 259,800 ", $65.75 ,7%,$17.0M,DARK BLOCK,Equity,Credit & Lending,Credit & Lending," 3,537,967 ",448,20201022
-8/7/2020,3:00:07 PM,COF," 347,100 ", $65.75 ,10%,$22.0M,DARK BLOCK,Equity,Credit & Lending,Credit & Lending," 3,537,967 ",448,20201022
-8/7/2020,8:59:30 AM,COLD," 249,700 ", $39.45 ,18%,$9.8M,DARK ISOAA,Equity,REITs,Real Estate," 1,387,307 ",200,20200806
-8/7/2020,11:03:29 AM,CRM," 665,520 ", $202.32 ,14%,$134.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 4,783,034 ",861,20200825
-8/7/2020,12:50:43 PM,CSCO," 264,000 ", $47.33 ,1%,$12.0M,BLOCK,Equity,Manufacturing,Communications," 20,536,142 ",4221,20200812
-8/7/2020,3:39:35 PM,CSCO," 192,211 ", $47.43 ,1%,$9.1M,DARK BLOCK,Equity,Manufacturing,Communications," 20,536,142 ",4221,20200812
-8/7/2020,3:00:02 PM,CSX," 222,276 ", $72.93 ,6%,$16.0M,DARK BLOCK,Equity,Rail,Transport," 3,573,323 ",760,20201021
-8/7/2020,3:00:26 PM,CSX," 233,949 ", $72.93 ,7%,$17.0M,DARK BLOCK,Equity,Rail,Transport," 3,573,323 ",760,20201021
-8/7/2020,3:00:06 PM,CTSH," 100,940 ", $67.48 ,3%,$6.8M,DARK BLOCK,Equity,IT Services,IT Services & Software," 3,202,195 ",538,20201104
-8/7/2020,3:00:09 PM,CXO," 161,491 ", $51.27 ,8%,$8.2M,DARK BLOCK,Equity,Production & Extraction,Oil & Gas," 2,082,786 ",194,20201103
-8/7/2020,3:09:57 PM,DBX," 1,457,037 ", $20.85 ,23%,$30.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 6,239,564 ",413,20200806
-8/7/2020,3:10:46 PM,DBX," 282,009 ", $20.69 ,5%,$5.8M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 6,239,564 ",413,20200806
-8/7/2020,3:02:16 PM,DCPH," 119,400 ", $48.91 ,25%,$5.8M,DARK AVGPRC,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 485,127 ",55,20201102
-8/7/2020,8:47:57 AM,DIS," 171,200 ", $129.48 ,1%,$22.0M,DARK BLOCK,Equity,Entertainment,Media," 13,286,272 ",1800,20201105
-8/7/2020,3:02:47 PM,DIS," 533,500 ", $129.93 ,4%,$69.0M,DARK BLOCK,Equity,Entertainment,Media," 13,286,272 ",1800,20201105
-8/7/2020,2:18:18 PM,DISH," 225,000 ", $33.60 ,9%,$7.5M,DARK AVGPRC,Equity,Radio & Television,Media," 2,615,540 ",243,20200807
-8/7/2020,3:03:55 PM,DOYU," 372,776 ", $15.16 ,15%,$5.6M,DARK BLOCK,Equity,IT Services,IT Services & Software," 2,446,018 ",324,20200810
-8/7/2020,9:00:09 AM,DRE," 169,562 ", $39.49 ,8%,$6.6M,DARK BLOCK,Equity,REITs,Real Estate," 2,197,937 ",367,20201104
-8/7/2020,8:46:50 AM,DT," 180,000 ", $40.02 ,6%,$7.2M,DARK BLOCK,Equity,IT Services,IT Services & Software," 3,101,671 ",281,20201104
-8/7/2020,3:04:13 PM,DXC," 400,000 ", $19.90 ,11%,$7.9M,DARK BLOCK,Equity,IT Services,IT Services & Software," 3,728,056 ",254,20200806
-8/7/2020,3:00:18 PM,EBAY," 274,800 ", $55.21 ,3%,$15.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 10,201,211 ",664,20201028
-8/7/2020,3:02:16 PM,EGHT," 1,015,231 ", $15.87 ,66%,$16.0M,DARK AVGPRC,Equity,Internet & Software,IT Services & Software," 1,538,693 ",100,20201104
-8/7/2020,9:00:09 AM,EMR," 258,850 ", $65.34 ,10%,$16.0M,DARK BLOCK,Equity,Electrical Equipment,Electrical Equipment," 2,533,987 ",594,20201103
-8/7/2020,9:44:23 AM,EPD," 310,000 ", $17.96 ,4%,$5.5M,DARK AVGPRC,Equity,Equipment & Services,Oil & Gas," 7,369,561 ",1366,20201026
-8/7/2020,9:00:09 AM,EXC," 420,613 ", $37.90 ,7%,$15.0M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 5,941,944 ",971,20201029
-8/7/2020,3:00:25 PM,EXC," 238,300 ", $38.93 ,4%,$9.2M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 5,941,944 ",971,20201029
-8/7/2020,3:00:06 PM,EXEL," 411,970 ", $22.36 ,19%,$9.2M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 2,143,794 ",292,20200806
-8/7/2020,3:01:11 PM,EYE," 180,400 ", $32.89 ,27%,$5.9M,DARK AVGPRC,Equity,Medical Instruments & Equipment,Health Care Equipment," 675,209 ",80,20200806
-8/7/2020,3:05:53 PM,EYE," 383,000 ", $32.97 ,57%,$12.0M,DARK AVGPRC,Equity,Medical Instruments & Equipment,Health Care Equipment," 675,209 ",80,20200806
-8/7/2020,8:57:35 AM,FB," 687,894 ", $264.09 ,3%,$181.0M,DARK BLOCK,Equity,Entertainment,Media," 26,767,291 ",2446,20201104
-8/7/2020,2:14:52 PM,FB," 796,650 ", $265.67 ,3%,$211.0M,BLOCK,Equity,Entertainment,Media," 26,767,291 ",2446,20201104
-8/7/2020,3:10:46 PM,FB," 141,258 ", $268.44 ,1%,$37.0M,DARK BLOCK,Equity,Entertainment,Media," 26,767,291 ",2446,20201104
-8/7/2020,1:51:32 PM,FDX," 100,000 ", $182.03 ,3%,$18.0M,DARK BLOCK,Equity,Airlines/Air Freight,Transport," 3,052,139 ",239,20200915
-8/7/2020,8:57:35 AM,FE," 264,483 ", $28.95 ,2%,$7.6M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 14,910,048 ",540,20201102
-8/7/2020,10:23:01 AM,FE," 948,433 ", $29.15 ,6%,$27.0M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 14,910,048 ",540,20201102
-8/7/2020,3:03:08 PM,FE," 340,000 ", $29.44 ,2%,$10.0M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 14,910,048 ",540,20201102
-8/7/2020,3:03:08 PM,FE," 296,800 ", $29.44 ,2%,$8.7M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 14,910,048 ",540,20201102
-8/7/2020,9:14:07 AM,FIS," 349,600 ", $146.00 ,10%,$51.0M,DARK ISOAA,Equity,Business Services,Commercial Services & Supplies," 3,560,484 ",613,20201103
-8/7/2020,10:29:28 AM,FIS," 100,000 ", $147.05 ,3%,$14.0M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 3,560,484 ",613,20201103
-8/7/2020,10:59:01 AM,FIS," 150,000 ", $147.15 ,4%,$22.0M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 3,560,484 ",613,20201103
-8/7/2020,9:00:09 AM,FISV," 403,798 ", $101.51 ,9%,$40.0M,DARK BLOCK,Equity,IT Services,IT Services & Software," 4,725,838 ",658,20201104
-8/7/2020,3:27:49 PM,FISV," 116,013 ", $103.91 ,2%,$12.0M,DARK BLOCK,Equity,IT Services,IT Services & Software," 4,725,838 ",658,20201104
-8/7/2020,9:53:06 AM,FOXA," 372,520 ", $24.55 ,8%,$9.1M,DARK BLOCK,Equity,Radio & Television,Media," 4,436,765 ",603,20201104
-8/7/2020,11:36:05 AM,FOXA," 499,859 ", $24.45 ,11%,$12.0M,DARK BLOCK,Equity,Radio & Television,Media," 4,436,765 ",603,20201104
-8/7/2020,1:26:55 PM,FPAC," 500,000 ", $10.24 ,94%,$5.1M,DARK BLOCK,Equity,Miscellaneous,Miscellaneous," 530,057 ",79,N/A
-8/7/2020,10:29:32 AM,FTCH," 343,800 ", $27.96 ,7%,$9.6M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 5,034,168 ",339,20200813
-8/7/2020,9:17:16 AM,FTNT," 120,000 ", $127.19 ,8%,$15.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 1,504,302 ",133,20200806
-8/7/2020,9:18:32 AM,G," 260,000 ", $40.40 ,26%,$10.0M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 1,012,600 ",186,20200806
-8/7/2020,9:24:37 AM,G," 250,000 ", $40.55 ,25%,$10.0M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 1,012,600 ",186,20200806
-8/7/2020,10:16:46 AM,G," 369,200 ", $40.92 ,36%,$15.0M,DARK ISOAA,Equity,Business Services,Commercial Services & Supplies," 1,012,600 ",186,20200806
-8/7/2020,3:00:10 PM,GD," 117,340 ", $152.97 ,9%,$17.0M,DARK BLOCK,Equity,Aerospace,Aerospace & Defense," 1,244,942 ",267,20201028
-8/7/2020,12:26:06 PM,GE," 5,000,000 ", $6.43 ,6%,$32.0M,DARK BLOCK,Equity,Electrical Equipment,Electrical Equipment," 80,091,655 ",8674,20201104
-8/7/2020,2:09:50 PM,GE," 5,085,502 ", $6.42 ,6%,$32.0M,DARK BLOCK,Equity,Electrical Equipment,Electrical Equipment," 80,091,655 ",8674,20201104
-8/7/2020,3:10:46 PM,GE," 1,287,782 ", $6.40 ,2%,$8.2M,DARK BLOCK,Equity,Electrical Equipment,Electrical Equipment," 80,091,655 ",8674,20201104
-8/7/2020,9:28:36 AM,GILD," 100,000 ", $69.16 ,1%,$6.9M,DARK BLOCK,Equity,Biotechnology,Pharmaceuticals & Biotechnology," 8,001,074 ",1252,20201022
-8/7/2020,3:45:09 PM,GILD," 103,125 ", $69.35 ,1%,$7.1M,DARK BLOCK,Equity,Biotechnology,Pharmaceuticals & Biotechnology," 8,001,074 ",1252,20201022
-8/7/2020,2:47:48 PM,GOOG," 54,400 "," $1,489.00 ",3%,$81.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 1,759,273 ",682,20201026
-8/7/2020,2:48:48 PM,GOOG," 62,350 "," $1,489.00 ",4%,$92.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 1,759,273 ",682,20201026
-8/7/2020,2:49:17 PM,GOOG," 41,800 "," $1,486.37 ",2%,$62.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 1,759,273 ",682,20201026
-8/7/2020,3:02:14 PM,GOOG," 41,800 "," $1,486.37 ",2%,$62.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 1,759,273 ",682,20201026
-8/7/2020,3:03:59 PM,GOOG," 54,400 "," $1,489.00 ",3%,$81.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 1,759,273 ",682,20201026
-8/7/2020,3:04:33 PM,GOOG," 62,350 "," $1,489.00 ",4%,$92.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 1,759,273 ",682,20201026
-8/7/2020,8:57:35 AM,GOOGL," 97,595 "," $1,509.04 ",5%,$147.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 1,957,877 ",682,20201026
-8/7/2020,3:00:10 PM,GRUB," 180,000 ", $75.01 ,10%,$13.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 1,780,498 ",90,20201026
-8/7/2020,1:46:03 PM,GSK," 167,227 ", $40.70 ,5%,$6.8M,DARK ISOBB,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 3,059,953 ",2257,20201104
-8/7/2020,2:31:29 PM,GSX," 200,000 ", $105.40 ,4%,$21.0M,DARK BLOCK,Equity,Educational Services,Consumer Services," 4,829,839 ",235,20200827
-8/7/2020,4:14:22 PM,GSX," 483,870 ", $106.99 ,10%,$51.0M,DARK BLOCK,Equity,Educational Services,Consumer Services," 4,829,839 ",235,20200827
-8/7/2020,4:35:35 PM,GSX," 322,000 ", $106.99 ,7%,$34.0M,DARK BLOCK,Equity,Educational Services,Consumer Services," 4,829,839 ",235,20200827
-8/7/2020,12:34:19 PM,HAE," 100,000 ", $78.82 ,13%,$7.8M,DARK BLOCK,Equity,Medical Instruments & Equipment,Health Care Equipment," 758,024 ",49,20201106
-8/7/2020,1:18:03 PM,HAL," 872,600 ", $14.57 ,5%,$12.0M,DARK BLOCK,Equity,Equipment & Services,Oil & Gas," 16,322,826 ",874,20201019
-8/7/2020,12:29:01 PM,HBAN," 549,110 ", $9.55 ,5%,$5.2M,DARK AVGPRC,Equity,Banking,Banking & Savings," 11,103,786 ",1007,20201022
-8/7/2020,1:55:33 PM,HLF," 750,000 ", $49.93 ,66%,$37.0M,DARK BLOCK,Equity,Household & Personal Products,Household & Personal Products," 1,134,237 ",143,20200806
-8/7/2020,2:01:49 PM,HLF," 200,000 ", $49.93 ,18%,$9.9M,DARK BLOCK,Equity,Household & Personal Products,Household & Personal Products," 1,134,237 ",143,20200806
-8/7/2020,3:02:16 PM,HOME," 594,673 ", $15.54 ,15%,$9.2M,DARK AVGPRC,Equity,Furniture,Consumer Goods," 3,900,870 ",64,20200729
-8/7/2020,9:00:09 AM,HON," 342,991 ", $152.55 ,10%,$52.0M,DARK BLOCK,Equity,Auto Parts,Autos & Auto Parts," 3,414,729 ",697,20201015
-8/7/2020,2:29:42 PM,HST," 450,000 ", $11.40 ,4%,$5.1M,DARK BLOCK,Equity,REITs,Real Estate," 11,845,705 ",696,20201103
-8/7/2020,8:44:04 AM,HZNP," 138,300 ", $74.60 ,5%,$10.0M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 2,664,070 ",190,20201104
-8/7/2020,9:07:38 AM,INFY," 558,541 ", $12.60 ,4%,$7.0M,DARK ISOBBDay,Equity,IT Services,IT Services & Software," 12,505,913 ",3289,20201009
-8/7/2020,10:28:54 AM,ING," 877,705 ", $7.75 ,14%,$6.8M,DARK BLOCK,Equity,Banking,Banking & Savings," 6,493,039 ",3896,20200806
-8/7/2020,8:50:08 AM,INTC," 124,000 ", $48.12 ,0%,$5.9M,BLOCK,Equity,Semiconductors,IT Hardware," 34,508,033 ",4251,20201022
-8/7/2020,8:57:36 AM,INTC," 2,056,761 ", $48.53 ,6%,$99.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 34,508,033 ",4251,20201022
-8/7/2020,9:34:28 AM,INTC," 120,000 ", $48.04 ,0%,$5.7M,BLOCK,Equity,Semiconductors,IT Hardware," 34,508,033 ",4251,20201022
-8/7/2020,11:30:03 AM,INTC," 6,000,000 ", $47.99 ,17%,$287.0M,BLOCK,Equity,Semiconductors,IT Hardware," 34,508,033 ",4251,20201022
-8/7/2020,3:39:34 PM,INTC," 191,906 ", $48.03 ,1%,$9.2M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 34,508,033 ",4251,20201022
-8/7/2020,12:46:56 PM,IONS," 249,100 ", $55.50 ,35%,$13.0M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 707,578 ",135,20201104
-8/7/2020,3:03:29 PM,IP," 142,571 ", $35.49 ,5%,$5.0M,DARK BLOCK,Equity,Containers & Packaging,Paper & Forest Products," 2,662,739 ",391,20201029
-8/7/2020,11:35:55 AM,IPG," 655,812 ", $18.20 ,16%,$11.0M,DARK ISOBB,Equity,Advertising,Media," 4,105,877 ",385,20201027
-8/7/2020,1:41:49 PM,IR," 336,000 ", $33.25 ,10%,$11.0M,DARK BLOCK,Equity,Industrial Machinery & Equipment,Machinery," 3,256,185 ",416,20201026
-8/7/2020,2:12:45 PM,IR," 192,000 ", $33.40 ,6%,$6.4M,DARK BLOCK,Equity,Industrial Machinery & Equipment,Machinery," 3,256,185 ",416,20201026
-8/7/2020,3:10:46 PM,IR," 159,776 ", $33.90 ,5%,$5.4M,DARK BLOCK,Equity,Industrial Machinery & Equipment,Machinery," 3,256,185 ",416,20201026
-8/7/2020,12:29:36 PM,IRM," 231,997 ", $29.25 ,7%,$6.7M,DARK ISOBB,Equity,Business Services,Commercial Services & Supplies," 3,104,047 ",287,20200806
-8/7/2020,11:27:40 AM,JPM," 150,000 ", $97.86 ,1%,$14.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 19,657,735 ",3023,20201020
-8/7/2020,12:14:40 PM,JPM," 100,000 ", $98.27 ,1%,$9.8M,DARK BLOCK,Equity,Banking,Banking & Savings," 19,657,735 ",3023,20201020
-8/7/2020,12:29:11 PM,JPM," 100,000 ", $98.82 ,1%,$9.8M,DARK BLOCK,Equity,Banking,Banking & Savings," 19,657,735 ",3023,20201020
-8/7/2020,3:10:46 PM,JPM," 200,016 ", $99.38 ,1%,$19.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 19,657,735 ",3023,20201020
-8/7/2020,3:02:16 PM,KAR," 357,868 ", $17.52 ,14%,$6.2M,DARK AVGPRC,Equity,Retail - Automotive,Retail," 2,569,624 ",127,20201103
-8/7/2020,10:04:45 AM,KO," 361,786 ", $47.46 ,2%,$17.0M,DARK BLOCK,Equity,Beverages,Food & Beverage," 16,448,193 ",4252,20201016
-8/7/2020,3:10:46 PM,KO," 311,754 ", $47.80 ,2%,$14.0M,DARK BLOCK,Equity,Beverages,Food & Beverage," 16,448,193 ",4252,20201016
-8/7/2020,3:43:46 PM,KO," 349,690 ", $47.80 ,2%,$16.0M,DARK BLOCK,Equity,Beverages,Food & Beverage," 16,448,193 ",4252,20201016
-8/7/2020,12:13:07 PM,MCHP," 131,400 ", $97.93 ,5%,$12.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 2,614,558 ",247,20201103
-8/7/2020,12:13:48 PM,MCHP," 131,400 ", $97.94 ,5%,$12.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 2,614,558 ",247,20201103
-8/7/2020,3:10:46 PM,MDLZ," 126,407 ", $55.60 ,2%,$7.0M,DARK BLOCK,Equity,Food,Food & Beverage," 5,834,733 ",1414,20201103
-8/7/2020,3:43:46 PM,MDLZ," 144,320 ", $55.60 ,2%,$8.0M,DARK BLOCK,Equity,Food,Food & Beverage," 5,834,733 ",1414,20201103
-8/7/2020,9:19:59 AM,MDT," 116,700 ", $98.02 ,2%,$11.0M,DARK BLOCK,Equity,Medical Instruments & Equipment,Health Care Equipment," 4,767,790 ",1341,20200825
-8/7/2020,3:10:46 PM,MELI," 44,364 "," $1,193.97 ",10%,$52.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 456,020 ",49,20200810
-8/7/2020,3:02:00 PM,MET," 261,511 ", $38.75 ,5%,$10.0M,DARK BLOCK,Equity,Life & Health,Insurance," 5,197,704 ",906,20201104
-8/7/2020,3:00:05 PM,MIDD," 163,778 ", $102.91 ,19%,$16.0M,DARK BLOCK,Equity,Industrial Machinery & Equipment,Machinery," 877,602 ",54,20201104
-8/7/2020,12:14:59 PM,MO," 250,000 ", $41.97 ,4%,$10.0M,DARK ISOBB,Equity,Tobacco Products,Tobacco," 6,678,562 ",1856,20201029
-8/7/2020,3:10:46 PM,MO," 392,232 ", $42.17 ,6%,$16.0M,DARK BLOCK,Equity,Tobacco Products,Tobacco," 6,678,562 ",1856,20201029
-8/7/2020,3:43:46 PM,MO," 187,880 ", $42.17 ,3%,$7.9M,DARK BLOCK,Equity,Tobacco Products,Tobacco," 6,678,562 ",1856,20201029
-8/7/2020,3:10:46 PM,MRK," 141,418 ", $81.02 ,2%,$11.0M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 8,038,323 ",2516,20201103
-8/7/2020,2:11:15 PM,MRVL," 200,000 ", $35.53 ,3%,$7.1M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 7,208,485 ",663,20200827
-8/7/2020,3:03:18 PM,MRVL," 781,170 ", $35.85 ,11%,$28.0M,DARK AVGPRC,Equity,Semiconductors,IT Hardware," 7,208,485 ",663,20200827
-8/7/2020,11:43:57 AM,MSFT," 473,000 ", $213.03 ,1%,$100.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
-8/7/2020,11:45:13 AM,MSFT," 460,200 ", $211.96 ,1%,$97.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
-8/7/2020,11:58:38 AM,MSFT," 460,200 ", $211.96 ,1%,$97.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
-8/7/2020,11:59:18 AM,MSFT," 473,000 ", $213.03 ,1%,$100.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
-8/7/2020,3:00:23 PM,MSFT," 156,144 ", $212.48 ,0%,$33.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
-8/7/2020,3:00:27 PM,MSFT," 105,000 ", $212.48 ,0%,$22.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
-8/7/2020,3:39:34 PM,MSFT," 343,674 ", $212.48 ,1%,$73.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
-8/7/2020,4:10:16 PM,MSFT," 121,784 ", $212.48 ,0%,$25.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
-8/7/2020,3:00:26 PM,MXIM," 166,600 ", $68.69 ,4%,$11.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 4,336,484 ",264,20201103
-8/7/2020,3:00:26 PM,MXIM," 166,600 ", $68.69 ,4%,$11.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 4,336,484 ",264,20201103
-8/7/2020,3:00:26 PM,MXIM," 166,600 ", $68.69 ,4%,$11.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 4,336,484 ",264,20201103
-8/7/2020,3:00:26 PM,MXIM," 166,600 ", $68.69 ,4%,$11.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 4,336,484 ",264,20201103
-8/7/2020,3:02:16 PM,NAV," 174,075 ", $33.76 ,30%,$5.8M,DARK AVGPRC,Equity,Autos- Manufacturing,Autos & Auto Parts," 571,596 ",81,20200902
-8/7/2020,9:00:12 AM,NET," 137,679 ", $44.00 ,2%,$6.0M,BLOCK,Equity,IT Services,IT Services & Software," 5,570,339 ",303,20200806
-8/7/2020,12:56:46 PM,NFLX," 100,000 ", $489.54 ,1%,$48.0M,BLOCK,Equity,Entertainment,Media," 9,045,580 ",426,20201021
-8/7/2020,1:48:01 PM,NFLX," 272,000 ", $488.70 ,3%,$132.0M,DARK BLOCK,Equity,Entertainment,Media," 9,045,580 ",426,20201021
-8/7/2020,9:40:07 AM,NKE," 120,600 ", $100.32 ,2%,$12.0M,DARK BLOCK,Equity,"Apparel, Footwear & Accessories",Textiles & Apparel," 6,472,010 ",1500,20200922
-8/7/2020,2:32:03 PM,NKLA," 795,609 ", $36.00 ,4%,$28.0M,DARK ISOBB,Equity,Miscellaneous,Miscellaneous," 21,784,374 ",360,20201103
-8/7/2020,3:00:09 PM,NOC," 107,192 ", $329.27 ,11%,$35.0M,DARK BLOCK,Equity,Defense,Aerospace & Defense," 970,540 ",166,20201022
-8/7/2020,3:15:25 PM,NRIX," 598,292 ", $17.00 ,70%,$10.0M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 858,588 ",37,N/A
-8/7/2020,8:57:36 AM,NSC," 123,878 ", $195.07 ,9%,$24.0M,DARK BLOCK,Equity,Rail,Transport," 1,430,961 ",274,20201028
-8/7/2020,3:02:16 PM,OCFC," 390,675 ", $16.55 ,163%,$6.4M,DARK AVGPRC,Equity,Banking,Banking & Savings," 240,406 ",58,20201022
-8/7/2020,9:21:49 AM,OSUR," 379,254 ", $13.70 ,20%,$5.1M,DARK ISOAA,Equity,Medical Instruments & Equipment,Health Care Equipment," 1,891,260 ",61,20201104
-8/7/2020,1:58:56 PM,OXY," 400,000 ", $15.40 ,2%,$6.1M,BLOCK,Equity,Production & Extraction,Oil & Gas," 21,904,510 ",916,20200810
-8/7/2020,3:10:46 PM,PDD," 234,040 ", $88.20 ,3%,$20.0M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 8,576,297 ",1113,20200819
-8/7/2020,8:30:14 AM,PENN," 192,300 ", $45.00 ,2%,$8.6M,DARK BLOCK,Equity,"Hotels, Restaurants & Travel",Consumer Services," 9,665,730 ",114,20200806
-8/7/2020,9:33:55 AM,PENN," 173,100 ", $48.00 ,2%,$8.3M,DARK BLOCK,Equity,"Hotels, Restaurants & Travel",Consumer Services," 9,665,730 ",114,20200806
-8/7/2020,9:33:59 AM,PENN," 251,700 ", $48.00 ,3%,$12.0M,DARK BLOCK,Equity,"Hotels, Restaurants & Travel",Consumer Services," 9,665,730 ",114,20200806
-8/7/2020,3:00:05 PM,PEP," 317,616 ", $136.74 ,7%,$43.0M,DARK BLOCK,Equity,Beverages,Food & Beverage," 4,242,002 ",1382,20201001
-8/7/2020,3:43:46 PM,PEP," 125,510 ", $136.74 ,3%,$17.0M,DARK BLOCK,Equity,Beverages,Food & Beverage," 4,242,002 ",1382,20201001
-8/7/2020,8:38:43 AM,PFE," 200,000 ", $38.35 ,1%,$7.6M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 33,142,972 ",5550,20201103
-8/7/2020,1:30:26 PM,PG," 225,000 ", $132.84 ,3%,$29.0M,BLOCK,Equity,Household & Personal Products,Household & Personal Products," 7,042,814 ",2432,20201027
-8/7/2020,2:34:04 PM,PG," 100,000 ", $132.98 ,1%,$13.0M,BLOCK,Equity,Household & Personal Products,Household & Personal Products," 7,042,814 ",2432,20201027
-8/7/2020,3:43:46 PM,PG," 223,960 ", $133.55 ,3%,$29.0M,DARK BLOCK,Equity,Household & Personal Products,Household & Personal Products," 7,042,814 ",2432,20201027
-8/7/2020,11:14:31 AM,PINS," 150,000 ", $36.32 ,1%,$5.4M,DARK BLOCK,Equity,Entertainment,Media," 18,472,962 ",586,20201029
-8/7/2020,11:35:35 AM,PINS," 284,200 ", $35.59 ,2%,$10.0M,BLOCK,Equity,Entertainment,Media," 18,472,962 ",586,20201029
-8/7/2020,2:50:57 PM,PINS," 168,900 ", $35.16 ,1%,$5.9M,DARK BLOCK,Equity,Entertainment,Media," 18,472,962 ",586,20201029
-8/7/2020,3:43:46 PM,PM," 101,640 ", $77.50 ,2%,$7.8M,DARK BLOCK,Equity,Tobacco Products,Tobacco," 4,822,251 ",1553,20201015
-8/7/2020,3:00:09 PM,PNC," 119,900 ", $109.70 ,5%,$13.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 2,648,418 ",422,20201021
-8/7/2020,9:27:50 AM,PRAH," 100,000 ", $107.27 ,37%,$10.0M,DARK BLOCK,Equity,Biotechnology,Pharmaceuticals & Biotechnology," 273,129 ",62,20200806
-8/7/2020,3:02:16 PM,PTCT," 742,360 ", $47.83 ,81%,$35.0M,DARK AVGPRC,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 919,807 ",60,20201103
-8/7/2020,8:22:19 AM,PYPL," 150,000 ", $204.09 ,2%,$30.0M,DARK BLOCK,Equity,Miscellaneous Consumer Services,Consumer Services," 7,637,140 ",1171,20201028
-8/7/2020,2:12:41 PM,PYPL," 155,722 ", $198.23 ,2%,$30.0M,DARK BLOCK,Equity,Miscellaneous Consumer Services,Consumer Services," 7,637,140 ",1171,20201028
-8/7/2020,3:10:46 PM,PYPL," 208,753 ", $198.63 ,3%,$41.0M,DARK BLOCK,Equity,Miscellaneous Consumer Services,Consumer Services," 7,637,140 ",1171,20201028
-8/7/2020,7:11:25 AM,QGEN," 142,555 ", $46.87 ,9%,$6.6M,DARK BLOCK,Equity,Biotechnology,Pharmaceuticals & Biotechnology," 1,567,827 ",227,20201104
-8/7/2020,7:21:33 AM,QGEN," 142,555 ", $46.87 ,9%,$6.6M,DARK BLOCK,Equity,Biotechnology,Pharmaceuticals & Biotechnology," 1,567,827 ",227,20201104
-8/7/2020,8:59:12 AM,QSR," 100,000 ", $54.45 ,6%,$5.4M,DARK BLOCK,Equity,"Hotels, Restaurants & Travel",Consumer Services," 1,542,257 ",291,20200806
-8/7/2020,3:00:08 PM,REXR," 238,077 ", $47.90 ,10%,$11.0M,DARK BLOCK,Equity,REITs,Real Estate," 2,319,834 ",121,20201103
-8/7/2020,8:26:10 AM,RKT," 200,019 ", $25.21 ,0%,$5.0M,BLOCK,Equity,Finance Intermediaries & Services,Investments & Brokers," 110,798,112 ",138,20150729
-8/7/2020,4:00:14 PM,ROKU," 105,005 ", $156.39 ,1%,$16.0M,DARK BLOCK,Equity,Entertainment,Media," 9,856,240 ",119,20201104
-8/7/2020,1:41:37 PM,ROST," 141,515 ", $88.84 ,4%,$12.0M,BLOCK,Equity,Retail - Apparel and Accessories,Retail," 3,213,830 ",348,20200827
-8/7/2020,10:43:12 AM,RTX," 136,878 ", $60.23 ,2%,$8.2M,DARK BLOCK,Equity,Aerospace,Aerospace & Defense," 9,110,318 ",866,20201027
-8/7/2020,3:00:09 PM,RTX," 100,000 ", $61.23 ,1%,$6.1M,DARK BLOCK,Equity,Aerospace,Aerospace & Defense," 9,110,318 ",866,20201027
-8/7/2020,9:57:44 AM,SAIL," 250,000 ", $37.00 ,16%,$9.2M,DARK ISOBB,Equity,Internet & Software,IT Services & Software," 1,566,519 ",90,20200806
-8/7/2020,8:57:36 AM,SBUX," 605,390 ", $75.48 ,7%,$45.0M,DARK BLOCK,Equity,"Hotels, Restaurants & Travel",Consumer Services," 8,873,548 ",1164,20201104
-8/7/2020,8:57:36 AM,SCHW," 553,569 ", $33.02 ,5%,$18.0M,DARK BLOCK,Equity,Finance Intermediaries & Services,Investments & Brokers," 10,613,181 ",1148,20201020
-8/7/2020,3:03:56 PM,SEE," 166,300 ", $40.77 ,13%,$6.7M,DARK BLOCK,Equity,Containers & Packaging,Paper & Forest Products," 1,252,299 ",154,20200806
-8/7/2020,3:00:03 PM,SLM," 1,011,393 ", $7.00 ,20%,$7.0M,DARK BLOCK,Equity,Credit & Lending,Credit & Lending," 4,956,149 ",373,20201028
-8/7/2020,3:11:12 PM,SMAR," 170,000 ", $44.00 ,10%,$7.4M,DARK AVGPRC,Equity,IT Services,IT Services & Software," 1,656,275 ",119,20200902
-8/7/2020,3:01:11 PM,SNAP," 1,313,744 ", $21.61 ,4%,$28.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 29,406,555 ",1457,20201027
-8/7/2020,3:10:46 PM,SNAP," 298,694 ", $21.58 ,1%,$6.4M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 29,406,555 ",1457,20201027
-8/7/2020,9:44:34 AM,SNY," 134,216 ", $51.29 ,13%,$6.8M,DARK AVGPRC,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 1,019,431 ",2479,20201029
-8/7/2020,10:08:30 AM,SNY," 105,212 ", $51.36 ,10%,$5.4M,DARK AVGPRC,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 1,019,431 ",2479,20201029
-8/7/2020,2:18:22 PM,SNY," 307,012 ", $51.41 ,30%,$15.0M,DARK AVGPRC,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 1,019,431 ",2479,20201029
-8/7/2020,2:51:05 PM,SPG," 170,000 ", $62.38 ,3%,$10.0M,DARK BLOCK,Equity,REITs,Real Estate," 5,779,220 ",291,20200810
-8/7/2020,8:21:50 AM,SQ," 100,000 ", $154.00 ,1%,$15.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 14,960,476 ",343,20201104
-8/7/2020,8:48:17 AM,ST," 154,700 ", $39.55 ,11%,$6.1M,DARK BLOCK,Equity,Electrical Equipment,Electrical Equipment," 1,400,450 ",157,20201104
-8/7/2020,10:55:39 AM,STNE," 100,000 ", $50.00 ,5%,$5.0M,DARK BLOCK,Equity,IT Services,IT Services & Software," 2,112,411 ",277,20200812
-8/7/2020,10:29:42 AM,SYY," 100,000 ", $58.39 ,3%,$5.8M,DARK BLOCK,Equity,"Retail - Food & Beverage, Drug & Tobacco",Retail," 3,044,096 ",481,20200811
-8/7/2020,10:50:57 AM,SYY," 117,774 ", $58.50 ,4%,$6.8M,DARK BLOCK,Equity,"Retail - Food & Beverage, Drug & Tobacco",Retail," 3,044,096 ",481,20200811
-8/7/2020,8:57:36 AM,T," 256,898 ", $29.70 ,1%,$7.6M,DARK BLOCK,Equity,Services,Communications," 35,672,575 ",7177,20201026
-8/7/2020,9:00:09 AM,T," 256,898 ", $29.70 ,1%,$7.6M,DARK BLOCK,Equity,Services,Communications," 35,672,575 ",7177,20201026
-8/7/2020,9:54:53 AM,TEAM," 125,000 ", $175.75 ,6%,$21.0M,DARK ISO,Equity,IT Services,IT Services & Software," 2,021,078 ",121,20201015
-8/7/2020,3:03:47 PM,TIF," 225,000 ", $124.82 ,19%,$28.0M,DARK BLOCK,Equity,Retail - Specialty,Retail," 1,201,348 ",120,20200826
-8/7/2020,9:19:07 AM,TJX," 150,000 ", $53.95 ,3%,$8.0M,DARK BLOCK,Equity,Retail - Apparel and Accessories,Retail," 5,967,614 ",1195,20200818
-8/7/2020,8:35:18 AM,TNDM," 113,500 ", $105.85 ,9%,$12.0M,DARK BLOCK,Equity,Medical Instruments & Equipment,Health Care Equipment," 1,222,512 ",60,20201102
-8/7/2020,3:00:12 PM,TSN," 119,202 ", $62.80 ,5%,$7.4M,DARK BLOCK,Equity,Food,Food & Beverage," 2,307,805 ",358,20201110
-8/7/2020,11:49:56 AM,TWLO," 141,587 ", $255.50 ,4%,$36.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 3,260,242 ",140,20201104
-8/7/2020,11:53:04 AM,TWLO," 141,587 ", $255.50 ,4%,$36.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 3,260,242 ",140,20201104
-8/7/2020,9:48:49 AM,TWLO," 141,000 ", $256.20 ,4%,$36.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 3,260,242 ",140,20201104
-8/7/2020,8:25:23 AM,TXN," 125,000 ", $133.74 ,3%,$16.0M,BLOCK,Equity,Semiconductors,IT Hardware," 4,889,049 ",909,20201027
-8/7/2020,8:20:44 AM,UBER," 200,000 ", $33.35 ,1%,$6.6M,DARK BLOCK,Equity,IT Services,IT Services & Software," 19,796,963 ",1733,20200806
-8/7/2020,8:39:29 AM,UBER," 250,000 ", $33.21 ,1%,$8.3M,DARK BLOCK,Equity,IT Services,IT Services & Software," 19,796,963 ",1733,20200806
-8/7/2020,8:57:13 AM,UBER," 247,700 ", $33.22 ,1%,$8.2M,DARK ISOAA,Equity,IT Services,IT Services & Software," 19,796,963 ",1733,20200806
-8/7/2020,9:06:39 AM,UBER," 315,000 ", $32.82 ,2%,$10.0M,DARK BLOCK,Equity,IT Services,IT Services & Software," 19,796,963 ",1733,20200806
-8/7/2020,9:15:02 AM,UBER," 174,100 ", $33.00 ,1%,$5.7M,DARK ISOAA,Equity,IT Services,IT Services & Software," 19,796,963 ",1733,20200806
-8/7/2020,11:12:36 AM,UN," 537,560 ", $58.24 ,31%,$31.0M,DARK BLOCK,Equity,Household & Personal Products,Household & Personal Products," 1,718,716 ",1714,TBA
-8/7/2020,11:13:16 AM,UN," 537,560 ", $58.24 ,31%,$31.0M,DARK BLOCK,Equity,Household & Personal Products,Household & Personal Products," 1,718,716 ",1714,TBA
-8/7/2020,11:13:41 AM,UN," 537,560 ", $58.24 ,31%,$31.0M,DARK AVGPRC,Equity,Household & Personal Products,Household & Personal Products," 1,718,716 ",1714,TBA
-8/7/2020,3:00:25 PM,USB," 138,357 ", $37.33 ,2%,$5.1M,DARK AVGPRC,Equity,Banking,Banking & Savings," 6,817,566 ",1502,20201021
-8/7/2020,10:33:35 AM,VALE," 550,000 ", $11.26 ,2%,$6.1M,DARK BLOCK,Equity,Non-Precious Metals,Metals & Mining," 27,205,999 ",5128,20201022
-8/7/2020,2:43:13 PM,VALE," 500,000 ", $11.15 ,2%,$5.5M,DARK BLOCK,Equity,Non-Precious Metals,Metals & Mining," 27,205,999 ",5128,20201022
-8/7/2020,3:10:57 PM,VAR," 183,300 ", $173.82 ,14%,$31.0M,DARK BLOCK,Equity,Medical Instruments & Equipment,Health Care Equipment," 1,295,260 ",90,20201028
-8/7/2020,1:14:19 PM,VIAC," 238,700 ", $25.70 ,2%,$6.1M,DARK BLOCK,Equity,Radio & Television,Media," 9,908,904 ",615,20200806
-8/7/2020,3:00:06 PM,VIAC," 250,000 ", $26.21 ,3%,$6.5M,DARK BLOCK,Equity,Radio & Television,Media," 9,908,904 ",615,20200806
-8/7/2020,3:00:10 PM,VNO," 165,800 ", $35.55 ,9%,$5.8M,DARK BLOCK,Equity,REITs,Real Estate," 1,929,426 ",175,20201026
-8/7/2020,3:00:07 PM,VZ," 339,463 ", $58.53 ,2%,$19.0M,DARK BLOCK,Equity,Services,Communications," 14,419,572 ",4135,20201023
-8/7/2020,3:00:51 PM,VZ," 140,600 ", $58.53 ,1%,$8.2M,DARK BLOCK,Equity,Services,Communications," 14,419,572 ",4135,20201023
-8/7/2020,8:57:36 AM,WFC," 1,864,696 ", $24.09 ,4%,$44.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 46,084,453 ",4096,20201020
-8/7/2020,9:20:26 AM,WFC," 727,600 ", $24.27 ,2%,$17.0M,DARK ISO,Equity,Banking,Banking & Savings," 46,084,453 ",4096,20201020
-8/7/2020,9:35:48 AM,WFC," 261,444 ", $24.27 ,1%,$6.3M,DARK AVGPRC,Equity,Banking,Banking & Savings," 46,084,453 ",4096,20201020
-8/7/2020,12:10:12 PM,WFC," 435,700 ", $24.75 ,1%,$10.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 46,084,453 ",4096,20201020
-8/7/2020,3:02:30 PM,WFC," 2,321,600 ", $25.07 ,5%,$58.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 46,084,453 ",4096,20201020
-8/7/2020,3:02:16 PM,WMS," 410,216 ", $55.50 ,111%,$22.0M,DARK AVGPRC,Equity,Plastics,Synthetic Materials," 370,591 ",69,20200806
-8/7/2020,3:00:10 PM,WMT," 142,601 ", $129.97 ,2%,$18.0M,DARK BLOCK,Equity,Retail - General Merchandise/Department Stores,Retail," 8,330,789 ",1404,20200818
-8/7/2020,3:43:46 PM,WMT," 128,095 ", $129.97 ,2%,$16.0M,DARK BLOCK,Equity,Retail - General Merchandise/Department Stores,Retail," 8,330,789 ",1404,20200818
-8/7/2020,10:33:20 AM,WPC," 100,000 ", $71.60 ,12%,$7.1M,DARK BLOCK,Equity,REITs,Real Estate," 846,996 ",170,20201106
-8/7/2020,11:19:22 AM,WPF," 500,000 ", $10.16 ,143%,$5.0M,DARK ISOBB,Equity,Services,Communications," 348,976 ",29,N/A
-8/7/2020,11:50:43 AM,WPF," 500,000 ", $10.16 ,143%,$5.0M,DARK ISOBB,Equity,Services,Communications," 348,976 ",29,N/A
-8/7/2020,1:03:47 PM,WU," 280,000 ", $23.00 ,5%,$6.4M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 5,596,226 ",405,20201029
-8/7/2020,2:56:23 PM,WUBA," 133,300 ", $55.76 ,7%,$7.4M,DARK BLOCK,Equity,IT Services,IT Services & Software," 1,858,651 ",131,20200819
-8/7/2020,3:14:19 PM,WUBA," 320,000 ", $55.70 ,17%,$17.0M,DARK AVGPRC,Equity,IT Services,IT Services & Software," 1,858,651 ",131,20200819
-8/7/2020,3:02:16 PM,XLRN," 292,922 ", $99.12 ,28%,$29.0M,DARK AVGPRC,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 1,031,841 ",52,20200806
-8/7/2020,2:57:26 PM,XOM," 180,000 ", $43.31 ,1%,$7.7M,DARK BLOCK,Equity,Production & Extraction,Oil & Gas," 20,320,690 ",4226,20201106
-8/7/2020,3:18:51 PM,XOM," 168,830 ", $43.30 ,1%,$7.3M,DARK BLOCK,Equity,Production & Extraction,Oil & Gas," 20,320,690 ",4226,20201106
-8/7/2020,3:44:28 PM,XOM," 192,440 ", $43.44 ,1%,$8.3M,DARK BLOCK,Equity,Production & Extraction,Oil & Gas," 20,320,690 ",4226,20201106
-8/7/2020,10:40:30 AM,Z," 375,408 ", $83.57 ,12%,$31.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 3,171,811 ",212,20200514
-8/7/2020,12:26:01 PM,Z," 100,000 ", $82.12 ,3%,$8.2M,BLOCK,Equity,Internet & Software,IT Services & Software," 3,171,811 ",212,20200514
-8/7/2020,3:10:46 PM,Z," 138,193 ", $79.76 ,4%,$11.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 3,171,811 ",212,20200514
-8/7/2020,3:00:06 PM,ZEN," 276,800 ", $88.38 ,12%,$24.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 2,277,620 ",109,20201103
-8/7/2020,3:10:46 PM,ZLAB," 197,790 ", $80.35 ,63%,$15.0M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 312,274 ",58,20200813
-8/7/2020,8:48:55 AM,ZNGA," 983,100 ", $9.70 ,5%,$9.5M,DARK ISOBB,Equity,Internet & Software,IT Services & Software," 19,796,876 ",866,20201104
-8/7/2020,9:36:25 AM,ZNGA," 556,900 ", $9.70 ,3%,$5.4M,DARK ISOBB,Equity,Internet & Software,IT Services & Software," 19,796,876 ",866,20201104
-8/7/2020,9:49:15 AM,ZNGA," 1,000,000 ", $9.87 ,5%,$9.8M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 19,796,876 ",866,20201104
-8/7/2020,3:00:06 PM,ZTO," 209,593 ", $36.34 ,10%,$7.6M,DARK BLOCK,Equity,Shipping,Transport," 2,119,233 ",579,20200812
+Date, Timestamp, Ticker, Volume,  Price , % of 30DayAvg, Notional, Message, SecurityType, Industry, Sector,  30DayAverage , Float, EarningsDate
+8/7/2020,9:00:49 AM,AAP,822294, $153.00 ,105%,$125.0M,DARK BLOCK,Equity,Retail - Automotive,Retail," 782,631 ",66,20200818
+8/7/2020,8:48:27 AM,AAPL,180000, $452.04 ,0%,$81.0M,BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
+8/7/2020,9:25:39 AM,AAPL,100000, $448.62 ,0%,$44.0M,BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
+8/7/2020,9:25:56 AM,AAPL,163000, $448.62 ,0%,$73.0M,BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
+8/7/2020,12:30:18 PM,AAPL,215000, $443.62 ,1%,$95.0M,BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
+8/7/2020,1:30:22 PM,AAPL,100000, $442.32 ,0%,$44.0M,DARK BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
+8/7/2020,3:00:08 PM,AAPL,134726, $444.45 ,0%,$59.0M,DARK BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
+8/7/2020,3:00:08 PM,AAPL,199800, $444.45 ,1%,$88.0M,DARK BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
+8/7/2020,3:39:34 PM,AAPL,184647, $444.45 ,1%,$82.0M,DARK BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
+8/7/2020,3:58:47 PM,AAPL,362369, $444.45 ,1%,$161.0M,DARK BLOCK,Equity,Computer Hardware & Equipment,IT Hardware," 36,944,454 ",4332,20201104
+8/7/2020,12:58:50 PM,ADBE,394500, $446.07 ,16%,$175.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 2,524,027 ",478,20200915
+8/7/2020,1:01:33 PM,ADBE,400000, $446.86 ,16%,$178.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 2,524,027 ",478,20200915
+8/7/2020,1:10:10 PM,ADBE,112000, $446.07 ,4%,$49.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 2,524,027 ",478,20200915
+8/7/2020,1:10:44 PM,ADBE,129500, $446.07 ,5%,$57.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 2,524,027 ",478,20200915
+8/7/2020,1:11:36 PM,ADBE,153000, $446.07 ,6%,$68.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 2,524,027 ",478,20200915
+8/7/2020,8:45:24 AM,AKAM,167219, $109.09 ,9%,$18.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 1,796,950 ",158,20201026
+8/7/2020,9:10:20 AM,AMAT,244000, $64.53 ,4%,$15.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 5,967,707 ",912,20200813
+8/7/2020,10:28:50 AM,AMAT,100000, $64.00 ,2%,$6.3M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 5,967,707 ",912,20200813
+8/7/2020,1:24:58 PM,AMD,185000, $83.20 ,0%,$15.0M,BLOCK,Equity,Semiconductors,IT Hardware," 69,591,819 ",1156,20201103
+8/7/2020,3:00:02 PM,AMTD,275000, $36.84 ,8%,$10.0M,DARK BLOCK,Equity,Finance Intermediaries & Services,Investments & Brokers," 3,428,121 ",538,20201019
+8/7/2020,3:10:46 PM,APO,353028, $48.78 ,21%,$17.0M,DARK BLOCK,Equity,Finance Intermediaries & Services,Investments & Brokers," 1,657,141 ",228,20201029
+8/7/2020,9:50:15 AM,AQUA,388504, $20.72 ,66%,$8.0M,DARK BLOCK,Equity,Industrial Machinery & Equipment,Machinery," 588,169 ",116,20201119
+8/7/2020,3:00:12 PM,ARMK,492537, $23.58 ,21%,$11.0M,DARK BLOCK,Equity,"Hotels, Restaurants & Travel",Consumer Services," 2,309,084 ",244,20201117
+8/7/2020,3:02:16 PM,ATGE,147700, $36.01 ,36%,$5.3M,DARK AVGPRC,Equity,Educational Services,Consumer Services," 412,565 ",51,20200818
+8/7/2020,12:26:43 PM,AXP,240000, $97.56 ,6%,$23.0M,BLOCK,Equity,Credit & Lending,Credit & Lending," 4,234,974 ",803,20201016
+8/7/2020,10:50:29 AM,AXS,316652, $43.50 ,32%,$13.0M,DARK ISOAADay,Equity,General Insurance,Insurance," 977,711 ",82,20201103
+8/7/2020,3:02:16 PM,AZO,52376," $1,182.22 ",28%,$61.0M,DARK AVGPRC,Equity,Retail - Automotive,Retail," 186,658 ",22,20200922
+8/7/2020,7:00:05 AM,BABA,250000, $265.68 ,1%,$66.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 17,639,886 ",2226,20200820
+8/7/2020,4:00:16 PM,BABA,111247, $252.10 ,1%,$28.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 17,639,886 ",2226,20200820
+8/7/2020,11:26:38 AM,BAC,250000, $25.62 ,0%,$6.4M,DARK BLOCK,Equity,Banking,Banking & Savings," 63,277,782 ",8658,20201021
+8/7/2020,3:00:08 PM,BAC,376500, $26.11 ,1%,$9.8M,DARK BLOCK,Equity,Banking,Banking & Savings," 63,277,782 ",8658,20201021
+8/7/2020,3:00:08 PM,BAC,472000, $26.11 ,1%,$12.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 63,277,782 ",8658,20201021
+8/7/2020,3:00:08 PM,BAC,452370, $26.11 ,1%,$11.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 63,277,782 ",8658,20201021
+8/7/2020,3:00:18 PM,BAC,235000, $26.11 ,0%,$6.1M,DARK BLOCK,Equity,Banking,Banking & Savings," 63,277,782 ",8658,20201021
+8/7/2020,3:27:49 PM,BAC,320124, $26.11 ,1%,$8.3M,DARK BLOCK,Equity,Banking,Banking & Savings," 63,277,782 ",8658,20201021
+8/7/2020,3:57:56 PM,BAC,258147, $26.11 ,0%,$6.7M,DARK BLOCK,Equity,Banking,Banking & Savings," 63,277,782 ",8658,20201021
+8/7/2020,9:16:43 AM,BAX,155506, $80.35 ,5%,$12.0M,DARK ISO,Equity,Medical Instruments & Equipment,Health Care Equipment," 3,170,692 ",505,20201029
+8/7/2020,9:57:50 AM,BAX,285800, $80.00 ,9%,$22.0M,DARK ISOBBDay,Equity,Medical Instruments & Equipment,Health Care Equipment," 3,170,692 ",505,20201029
+8/7/2020,2:47:53 PM,BBBY,500000, $12.13 ,4%,$6.0M,DARK BLOCK,Equity,Retail - Furniture & Home Furnishings,Retail," 12,870,760 ",124,20201007
+8/7/2020,9:16:23 AM,BERY,149600, $52.80 ,11%,$7.8M,DARK BLOCK,Equity,Plastics,Synthetic Materials," 1,311,265 ",129,20201119
+8/7/2020,3:02:16 PM,BGCP,3526504, $2.89 ,74%,$10.0M,DARK AVGPRC,Equity,Finance Intermediaries & Services,Investments & Brokers," 4,772,170 ",248,20201022
+8/7/2020,1:40:19 PM,BIDU,100000, $122.85 ,3%,$12.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 2,904,070 ",345,20200813
+8/7/2020,10:26:03 AM,BMY,100204, $61.44 ,1%,$6.1M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 10,887,040 ",2259,20200806
+8/7/2020,3:00:09 PM,BMY,699043, $61.02 ,6%,$42.0M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 10,887,040 ",2259,20200806
+8/7/2020,3:00:09 PM,BMY,121883, $61.02 ,1%,$7.4M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 10,887,040 ",2259,20200806
+8/7/2020,1:11:19 PM,BRK.B,500000, $208.33 ,8%,$104.0M,BLOCK,Equity,General Insurance,Insurance," 5,929,747 ",2283,20200807
+8/7/2020,3:10:46 PM,BSX,162290, $38.97 ,2%,$6.3M,DARK BLOCK,Equity,Medical Instruments & Equipment,Health Care Equipment," 9,798,084 ",1389,20201028
+8/7/2020,1:20:27 PM,BYD,200000, $25.40 ,8%,$5.0M,DARK ISOAA,Equity,"Hotels, Restaurants & Travel",Consumer Services," 2,509,225 ",78,20201027
+8/7/2020,3:04:17 PM,C,734800, $52.12 ,3%,$38.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 21,390,854 ",2080,20201020
+8/7/2020,3:04:17 PM,C,150000, $52.12 ,1%,$7.8M,DARK BLOCK,Equity,Banking,Banking & Savings," 21,390,854 ",2080,20201020
+8/7/2020,9:40:48 AM,CALA,2504300, $4.70 ,447%,$11.0M,DARK ISOBBDay,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 560,584 ",62,20200810
+8/7/2020,1:36:47 PM,CCXX,2200000, $10.73 ,75%,$23.0M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 2,918,587 ",0,N/A
+8/7/2020,3:00:03 PM,CDK,147600, $46.89 ,24%,$6.9M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 619,871 ",121,20201103
+8/7/2020,3:06:17 PM,CHRS,266650, $19.62 ,27%,$5.2M,DARK AVGPRC,Equity,Biotechnology,Pharmaceuticals & Biotechnology," 998,128 ",59,20200806
+8/7/2020,3:00:06 PM,CMCSA,146000, $42.81 ,1%,$6.2M,DARK BLOCK,Equity,Radio & Television,Media," 19,444,277 ",4502,20201022
+8/7/2020,3:10:46 PM,CMCSA,118111, $42.81 ,1%,$5.0M,DARK BLOCK,Equity,Radio & Television,Media," 19,444,277 ",4502,20201022
+8/7/2020,8:57:35 AM,CMS,138359, $61.46 ,8%,$8.5M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 1,776,262 ",284,20201022
+8/7/2020,3:58:46 PM,CNP,248444, $20.41 ,3%,$5.0M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 7,771,329 ",543,20200806
+8/7/2020,3:00:07 PM,COF,259800, $65.75 ,7%,$17.0M,DARK BLOCK,Equity,Credit & Lending,Credit & Lending," 3,537,967 ",448,20201022
+8/7/2020,3:00:07 PM,COF,347100, $65.75 ,10%,$22.0M,DARK BLOCK,Equity,Credit & Lending,Credit & Lending," 3,537,967 ",448,20201022
+8/7/2020,8:59:30 AM,COLD,249700, $39.45 ,18%,$9.8M,DARK ISOAA,Equity,REITs,Real Estate," 1,387,307 ",200,20200806
+8/7/2020,11:03:29 AM,CRM,665520, $202.32 ,14%,$134.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 4,783,034 ",861,20200825
+8/7/2020,12:50:43 PM,CSCO,264000, $47.33 ,1%,$12.0M,BLOCK,Equity,Manufacturing,Communications," 20,536,142 ",4221,20200812
+8/7/2020,3:39:35 PM,CSCO,192211, $47.43 ,1%,$9.1M,DARK BLOCK,Equity,Manufacturing,Communications," 20,536,142 ",4221,20200812
+8/7/2020,3:00:02 PM,CSX,222276, $72.93 ,6%,$16.0M,DARK BLOCK,Equity,Rail,Transport," 3,573,323 ",760,20201021
+8/7/2020,3:00:26 PM,CSX,233949, $72.93 ,7%,$17.0M,DARK BLOCK,Equity,Rail,Transport," 3,573,323 ",760,20201021
+8/7/2020,3:00:06 PM,CTSH,100940, $67.48 ,3%,$6.8M,DARK BLOCK,Equity,IT Services,IT Services & Software," 3,202,195 ",538,20201104
+8/7/2020,3:00:09 PM,CXO,161491, $51.27 ,8%,$8.2M,DARK BLOCK,Equity,Production & Extraction,Oil & Gas," 2,082,786 ",194,20201103
+8/7/2020,3:09:57 PM,DBX,1457037, $20.85 ,23%,$30.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 6,239,564 ",413,20200806
+8/7/2020,3:10:46 PM,DBX,282009, $20.69 ,5%,$5.8M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 6,239,564 ",413,20200806
+8/7/2020,3:02:16 PM,DCPH,119400, $48.91 ,25%,$5.8M,DARK AVGPRC,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 485,127 ",55,20201102
+8/7/2020,8:47:57 AM,DIS,171200, $129.48 ,1%,$22.0M,DARK BLOCK,Equity,Entertainment,Media," 13,286,272 ",1800,20201105
+8/7/2020,3:02:47 PM,DIS,533500, $129.93 ,4%,$69.0M,DARK BLOCK,Equity,Entertainment,Media," 13,286,272 ",1800,20201105
+8/7/2020,2:18:18 PM,DISH,225000, $33.60 ,9%,$7.5M,DARK AVGPRC,Equity,Radio & Television,Media," 2,615,540 ",243,20200807
+8/7/2020,3:03:55 PM,DOYU,372776, $15.16 ,15%,$5.6M,DARK BLOCK,Equity,IT Services,IT Services & Software," 2,446,018 ",324,20200810
+8/7/2020,9:00:09 AM,DRE,169562, $39.49 ,8%,$6.6M,DARK BLOCK,Equity,REITs,Real Estate," 2,197,937 ",367,20201104
+8/7/2020,8:46:50 AM,DT,180000, $40.02 ,6%,$7.2M,DARK BLOCK,Equity,IT Services,IT Services & Software," 3,101,671 ",281,20201104
+8/7/2020,3:04:13 PM,DXC,400000, $19.90 ,11%,$7.9M,DARK BLOCK,Equity,IT Services,IT Services & Software," 3,728,056 ",254,20200806
+8/7/2020,3:00:18 PM,EBAY,274800, $55.21 ,3%,$15.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 10,201,211 ",664,20201028
+8/7/2020,3:02:16 PM,EGHT,1015231, $15.87 ,66%,$16.0M,DARK AVGPRC,Equity,Internet & Software,IT Services & Software," 1,538,693 ",100,20201104
+8/7/2020,9:00:09 AM,EMR,258850, $65.34 ,10%,$16.0M,DARK BLOCK,Equity,Electrical Equipment,Electrical Equipment," 2,533,987 ",594,20201103
+8/7/2020,9:44:23 AM,EPD,310000, $17.96 ,4%,$5.5M,DARK AVGPRC,Equity,Equipment & Services,Oil & Gas," 7,369,561 ",1366,20201026
+8/7/2020,9:00:09 AM,EXC,420613, $37.90 ,7%,$15.0M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 5,941,944 ",971,20201029
+8/7/2020,3:00:25 PM,EXC,238300, $38.93 ,4%,$9.2M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 5,941,944 ",971,20201029
+8/7/2020,3:00:06 PM,EXEL,411970, $22.36 ,19%,$9.2M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 2,143,794 ",292,20200806
+8/7/2020,3:01:11 PM,EYE,180400, $32.89 ,27%,$5.9M,DARK AVGPRC,Equity,Medical Instruments & Equipment,Health Care Equipment," 675,209 ",80,20200806
+8/7/2020,3:05:53 PM,EYE,383000, $32.97 ,57%,$12.0M,DARK AVGPRC,Equity,Medical Instruments & Equipment,Health Care Equipment," 675,209 ",80,20200806
+8/7/2020,8:57:35 AM,FB,687894, $264.09 ,3%,$181.0M,DARK BLOCK,Equity,Entertainment,Media," 26,767,291 ",2446,20201104
+8/7/2020,2:14:52 PM,FB,796650, $265.67 ,3%,$211.0M,BLOCK,Equity,Entertainment,Media," 26,767,291 ",2446,20201104
+8/7/2020,3:10:46 PM,FB,141258, $268.44 ,1%,$37.0M,DARK BLOCK,Equity,Entertainment,Media," 26,767,291 ",2446,20201104
+8/7/2020,1:51:32 PM,FDX,100000, $182.03 ,3%,$18.0M,DARK BLOCK,Equity,Airlines/Air Freight,Transport," 3,052,139 ",239,20200915
+8/7/2020,8:57:35 AM,FE,264483, $28.95 ,2%,$7.6M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 14,910,048 ",540,20201102
+8/7/2020,10:23:01 AM,FE,948433, $29.15 ,6%,$27.0M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 14,910,048 ",540,20201102
+8/7/2020,3:03:08 PM,FE,340000, $29.44 ,2%,$10.0M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 14,910,048 ",540,20201102
+8/7/2020,3:03:08 PM,FE,296800, $29.44 ,2%,$8.7M,DARK BLOCK,Equity,Electric Utilities,Electric Utilities," 14,910,048 ",540,20201102
+8/7/2020,9:14:07 AM,FIS,349600, $146.00 ,10%,$51.0M,DARK ISOAA,Equity,Business Services,Commercial Services & Supplies," 3,560,484 ",613,20201103
+8/7/2020,10:29:28 AM,FIS,100000, $147.05 ,3%,$14.0M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 3,560,484 ",613,20201103
+8/7/2020,10:59:01 AM,FIS,150000, $147.15 ,4%,$22.0M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 3,560,484 ",613,20201103
+8/7/2020,9:00:09 AM,FISV,403798, $101.51 ,9%,$40.0M,DARK BLOCK,Equity,IT Services,IT Services & Software," 4,725,838 ",658,20201104
+8/7/2020,3:27:49 PM,FISV,116013, $103.91 ,2%,$12.0M,DARK BLOCK,Equity,IT Services,IT Services & Software," 4,725,838 ",658,20201104
+8/7/2020,9:53:06 AM,FOXA,372520, $24.55 ,8%,$9.1M,DARK BLOCK,Equity,Radio & Television,Media," 4,436,765 ",603,20201104
+8/7/2020,11:36:05 AM,FOXA,499859, $24.45 ,11%,$12.0M,DARK BLOCK,Equity,Radio & Television,Media," 4,436,765 ",603,20201104
+8/7/2020,1:26:55 PM,FPAC,500000, $10.24 ,94%,$5.1M,DARK BLOCK,Equity,Miscellaneous,Miscellaneous," 530,057 ",79,N/A
+8/7/2020,10:29:32 AM,FTCH,343800, $27.96 ,7%,$9.6M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 5,034,168 ",339,20200813
+8/7/2020,9:17:16 AM,FTNT,120000, $127.19 ,8%,$15.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 1,504,302 ",133,20200806
+8/7/2020,9:18:32 AM,G,260000, $40.40 ,26%,$10.0M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 1,012,600 ",186,20200806
+8/7/2020,9:24:37 AM,G,250000, $40.55 ,25%,$10.0M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 1,012,600 ",186,20200806
+8/7/2020,10:16:46 AM,G,369200, $40.92 ,36%,$15.0M,DARK ISOAA,Equity,Business Services,Commercial Services & Supplies," 1,012,600 ",186,20200806
+8/7/2020,3:00:10 PM,GD,117340, $152.97 ,9%,$17.0M,DARK BLOCK,Equity,Aerospace,Aerospace & Defense," 1,244,942 ",267,20201028
+8/7/2020,12:26:06 PM,GE,5000000, $6.43 ,6%,$32.0M,DARK BLOCK,Equity,Electrical Equipment,Electrical Equipment," 80,091,655 ",8674,20201104
+8/7/2020,2:09:50 PM,GE,5085502, $6.42 ,6%,$32.0M,DARK BLOCK,Equity,Electrical Equipment,Electrical Equipment," 80,091,655 ",8674,20201104
+8/7/2020,3:10:46 PM,GE,1287782, $6.40 ,2%,$8.2M,DARK BLOCK,Equity,Electrical Equipment,Electrical Equipment," 80,091,655 ",8674,20201104
+8/7/2020,9:28:36 AM,GILD,100000, $69.16 ,1%,$6.9M,DARK BLOCK,Equity,Biotechnology,Pharmaceuticals & Biotechnology," 8,001,074 ",1252,20201022
+8/7/2020,3:45:09 PM,GILD,103125, $69.35 ,1%,$7.1M,DARK BLOCK,Equity,Biotechnology,Pharmaceuticals & Biotechnology," 8,001,074 ",1252,20201022
+8/7/2020,2:47:48 PM,GOOG,54400," $1,489.00 ",3%,$81.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 1,759,273 ",682,20201026
+8/7/2020,2:48:48 PM,GOOG,62350," $1,489.00 ",4%,$92.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 1,759,273 ",682,20201026
+8/7/2020,2:49:17 PM,GOOG,41800," $1,486.37 ",2%,$62.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 1,759,273 ",682,20201026
+8/7/2020,3:02:14 PM,GOOG,41800," $1,486.37 ",2%,$62.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 1,759,273 ",682,20201026
+8/7/2020,3:03:59 PM,GOOG,54400," $1,489.00 ",3%,$81.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 1,759,273 ",682,20201026
+8/7/2020,3:04:33 PM,GOOG,62350," $1,489.00 ",4%,$92.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 1,759,273 ",682,20201026
+8/7/2020,8:57:35 AM,GOOGL,97595," $1,509.04 ",5%,$147.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 1,957,877 ",682,20201026
+8/7/2020,3:00:10 PM,GRUB,180000, $75.01 ,10%,$13.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 1,780,498 ",90,20201026
+8/7/2020,1:46:03 PM,GSK,167227, $40.70 ,5%,$6.8M,DARK ISOBB,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 3,059,953 ",2257,20201104
+8/7/2020,2:31:29 PM,GSX,200000, $105.40 ,4%,$21.0M,DARK BLOCK,Equity,Educational Services,Consumer Services," 4,829,839 ",235,20200827
+8/7/2020,4:14:22 PM,GSX,483870, $106.99 ,10%,$51.0M,DARK BLOCK,Equity,Educational Services,Consumer Services," 4,829,839 ",235,20200827
+8/7/2020,4:35:35 PM,GSX,322000, $106.99 ,7%,$34.0M,DARK BLOCK,Equity,Educational Services,Consumer Services," 4,829,839 ",235,20200827
+8/7/2020,12:34:19 PM,HAE,100000, $78.82 ,13%,$7.8M,DARK BLOCK,Equity,Medical Instruments & Equipment,Health Care Equipment," 758,024 ",49,20201106
+8/7/2020,1:18:03 PM,HAL,872600, $14.57 ,5%,$12.0M,DARK BLOCK,Equity,Equipment & Services,Oil & Gas," 16,322,826 ",874,20201019
+8/7/2020,12:29:01 PM,HBAN,549110, $9.55 ,5%,$5.2M,DARK AVGPRC,Equity,Banking,Banking & Savings," 11,103,786 ",1007,20201022
+8/7/2020,1:55:33 PM,HLF,750000, $49.93 ,66%,$37.0M,DARK BLOCK,Equity,Household & Personal Products,Household & Personal Products," 1,134,237 ",143,20200806
+8/7/2020,2:01:49 PM,HLF,200000, $49.93 ,18%,$9.9M,DARK BLOCK,Equity,Household & Personal Products,Household & Personal Products," 1,134,237 ",143,20200806
+8/7/2020,3:02:16 PM,HOME,594673, $15.54 ,15%,$9.2M,DARK AVGPRC,Equity,Furniture,Consumer Goods," 3,900,870 ",64,20200729
+8/7/2020,9:00:09 AM,HON,342991, $152.55 ,10%,$52.0M,DARK BLOCK,Equity,Auto Parts,Autos & Auto Parts," 3,414,729 ",697,20201015
+8/7/2020,2:29:42 PM,HST,450000, $11.40 ,4%,$5.1M,DARK BLOCK,Equity,REITs,Real Estate," 11,845,705 ",696,20201103
+8/7/2020,8:44:04 AM,HZNP,138300, $74.60 ,5%,$10.0M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 2,664,070 ",190,20201104
+8/7/2020,9:07:38 AM,INFY,558541, $12.60 ,4%,$7.0M,DARK ISOBBDay,Equity,IT Services,IT Services & Software," 12,505,913 ",3289,20201009
+8/7/2020,10:28:54 AM,ING,877705, $7.75 ,14%,$6.8M,DARK BLOCK,Equity,Banking,Banking & Savings," 6,493,039 ",3896,20200806
+8/7/2020,8:50:08 AM,INTC,124000, $48.12 ,0%,$5.9M,BLOCK,Equity,Semiconductors,IT Hardware," 34,508,033 ",4251,20201022
+8/7/2020,8:57:36 AM,INTC,2056761, $48.53 ,6%,$99.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 34,508,033 ",4251,20201022
+8/7/2020,9:34:28 AM,INTC,120000, $48.04 ,0%,$5.7M,BLOCK,Equity,Semiconductors,IT Hardware," 34,508,033 ",4251,20201022
+8/7/2020,11:30:03 AM,INTC,6000000, $47.99 ,17%,$287.0M,BLOCK,Equity,Semiconductors,IT Hardware," 34,508,033 ",4251,20201022
+8/7/2020,3:39:34 PM,INTC,191906, $48.03 ,1%,$9.2M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 34,508,033 ",4251,20201022
+8/7/2020,12:46:56 PM,IONS,249100, $55.50 ,35%,$13.0M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 707,578 ",135,20201104
+8/7/2020,3:03:29 PM,IP,142571, $35.49 ,5%,$5.0M,DARK BLOCK,Equity,Containers & Packaging,Paper & Forest Products," 2,662,739 ",391,20201029
+8/7/2020,11:35:55 AM,IPG,655812, $18.20 ,16%,$11.0M,DARK ISOBB,Equity,Advertising,Media," 4,105,877 ",385,20201027
+8/7/2020,1:41:49 PM,IR,336000, $33.25 ,10%,$11.0M,DARK BLOCK,Equity,Industrial Machinery & Equipment,Machinery," 3,256,185 ",416,20201026
+8/7/2020,2:12:45 PM,IR,192000, $33.40 ,6%,$6.4M,DARK BLOCK,Equity,Industrial Machinery & Equipment,Machinery," 3,256,185 ",416,20201026
+8/7/2020,3:10:46 PM,IR,159776, $33.90 ,5%,$5.4M,DARK BLOCK,Equity,Industrial Machinery & Equipment,Machinery," 3,256,185 ",416,20201026
+8/7/2020,12:29:36 PM,IRM,231997, $29.25 ,7%,$6.7M,DARK ISOBB,Equity,Business Services,Commercial Services & Supplies," 3,104,047 ",287,20200806
+8/7/2020,11:27:40 AM,JPM,150000, $97.86 ,1%,$14.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 19,657,735 ",3023,20201020
+8/7/2020,12:14:40 PM,JPM,100000, $98.27 ,1%,$9.8M,DARK BLOCK,Equity,Banking,Banking & Savings," 19,657,735 ",3023,20201020
+8/7/2020,12:29:11 PM,JPM,100000, $98.82 ,1%,$9.8M,DARK BLOCK,Equity,Banking,Banking & Savings," 19,657,735 ",3023,20201020
+8/7/2020,3:10:46 PM,JPM,200016, $99.38 ,1%,$19.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 19,657,735 ",3023,20201020
+8/7/2020,3:02:16 PM,KAR,357868, $17.52 ,14%,$6.2M,DARK AVGPRC,Equity,Retail - Automotive,Retail," 2,569,624 ",127,20201103
+8/7/2020,10:04:45 AM,KO,361786, $47.46 ,2%,$17.0M,DARK BLOCK,Equity,Beverages,Food & Beverage," 16,448,193 ",4252,20201016
+8/7/2020,3:10:46 PM,KO,311754, $47.80 ,2%,$14.0M,DARK BLOCK,Equity,Beverages,Food & Beverage," 16,448,193 ",4252,20201016
+8/7/2020,3:43:46 PM,KO,349690, $47.80 ,2%,$16.0M,DARK BLOCK,Equity,Beverages,Food & Beverage," 16,448,193 ",4252,20201016
+8/7/2020,12:13:07 PM,MCHP,131400, $97.93 ,5%,$12.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 2,614,558 ",247,20201103
+8/7/2020,12:13:48 PM,MCHP,131400, $97.94 ,5%,$12.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 2,614,558 ",247,20201103
+8/7/2020,3:10:46 PM,MDLZ,126407, $55.60 ,2%,$7.0M,DARK BLOCK,Equity,Food,Food & Beverage," 5,834,733 ",1414,20201103
+8/7/2020,3:43:46 PM,MDLZ,144320, $55.60 ,2%,$8.0M,DARK BLOCK,Equity,Food,Food & Beverage," 5,834,733 ",1414,20201103
+8/7/2020,9:19:59 AM,MDT,116700, $98.02 ,2%,$11.0M,DARK BLOCK,Equity,Medical Instruments & Equipment,Health Care Equipment," 4,767,790 ",1341,20200825
+8/7/2020,3:10:46 PM,MELI,44364," $1,193.97 ",10%,$52.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 456,020 ",49,20200810
+8/7/2020,3:02:00 PM,MET,261511, $38.75 ,5%,$10.0M,DARK BLOCK,Equity,Life & Health,Insurance," 5,197,704 ",906,20201104
+8/7/2020,3:00:05 PM,MIDD,163778, $102.91 ,19%,$16.0M,DARK BLOCK,Equity,Industrial Machinery & Equipment,Machinery," 877,602 ",54,20201104
+8/7/2020,12:14:59 PM,MO,250000, $41.97 ,4%,$10.0M,DARK ISOBB,Equity,Tobacco Products,Tobacco," 6,678,562 ",1856,20201029
+8/7/2020,3:10:46 PM,MO,392232, $42.17 ,6%,$16.0M,DARK BLOCK,Equity,Tobacco Products,Tobacco," 6,678,562 ",1856,20201029
+8/7/2020,3:43:46 PM,MO,187880, $42.17 ,3%,$7.9M,DARK BLOCK,Equity,Tobacco Products,Tobacco," 6,678,562 ",1856,20201029
+8/7/2020,3:10:46 PM,MRK,141418, $81.02 ,2%,$11.0M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 8,038,323 ",2516,20201103
+8/7/2020,2:11:15 PM,MRVL,200000, $35.53 ,3%,$7.1M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 7,208,485 ",663,20200827
+8/7/2020,3:03:18 PM,MRVL,781170, $35.85 ,11%,$28.0M,DARK AVGPRC,Equity,Semiconductors,IT Hardware," 7,208,485 ",663,20200827
+8/7/2020,11:43:57 AM,MSFT,473000, $213.03 ,1%,$100.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
+8/7/2020,11:45:13 AM,MSFT,460200, $211.96 ,1%,$97.0M,BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
+8/7/2020,11:58:38 AM,MSFT,460200, $211.96 ,1%,$97.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
+8/7/2020,11:59:18 AM,MSFT,473000, $213.03 ,1%,$100.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
+8/7/2020,3:00:23 PM,MSFT,156144, $212.48 ,0%,$33.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
+8/7/2020,3:00:27 PM,MSFT,105000, $212.48 ,0%,$22.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
+8/7/2020,3:39:34 PM,MSFT,343674, $212.48 ,1%,$73.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
+8/7/2020,4:10:16 PM,MSFT,121784, $212.48 ,0%,$25.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 36,754,820 ",7478,20201028
+8/7/2020,3:00:26 PM,MXIM,166600, $68.69 ,4%,$11.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 4,336,484 ",264,20201103
+8/7/2020,3:00:26 PM,MXIM,166600, $68.69 ,4%,$11.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 4,336,484 ",264,20201103
+8/7/2020,3:00:26 PM,MXIM,166600, $68.69 ,4%,$11.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 4,336,484 ",264,20201103
+8/7/2020,3:00:26 PM,MXIM,166600, $68.69 ,4%,$11.0M,DARK BLOCK,Equity,Semiconductors,IT Hardware," 4,336,484 ",264,20201103
+8/7/2020,3:02:16 PM,NAV,174075, $33.76 ,30%,$5.8M,DARK AVGPRC,Equity,Autos- Manufacturing,Autos & Auto Parts," 571,596 ",81,20200902
+8/7/2020,9:00:12 AM,NET,137679, $44.00 ,2%,$6.0M,BLOCK,Equity,IT Services,IT Services & Software," 5,570,339 ",303,20200806
+8/7/2020,12:56:46 PM,NFLX,100000, $489.54 ,1%,$48.0M,BLOCK,Equity,Entertainment,Media," 9,045,580 ",426,20201021
+8/7/2020,1:48:01 PM,NFLX,272000, $488.70 ,3%,$132.0M,DARK BLOCK,Equity,Entertainment,Media," 9,045,580 ",426,20201021
+8/7/2020,9:40:07 AM,NKE,120600, $100.32 ,2%,$12.0M,DARK BLOCK,Equity,"Apparel, Footwear & Accessories",Textiles & Apparel," 6,472,010 ",1500,20200922
+8/7/2020,2:32:03 PM,NKLA,795609, $36.00 ,4%,$28.0M,DARK ISOBB,Equity,Miscellaneous,Miscellaneous," 21,784,374 ",360,20201103
+8/7/2020,3:00:09 PM,NOC,107192, $329.27 ,11%,$35.0M,DARK BLOCK,Equity,Defense,Aerospace & Defense," 970,540 ",166,20201022
+8/7/2020,3:15:25 PM,NRIX,598292, $17.00 ,70%,$10.0M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 858,588 ",37,N/A
+8/7/2020,8:57:36 AM,NSC,123878, $195.07 ,9%,$24.0M,DARK BLOCK,Equity,Rail,Transport," 1,430,961 ",274,20201028
+8/7/2020,3:02:16 PM,OCFC,390675, $16.55 ,163%,$6.4M,DARK AVGPRC,Equity,Banking,Banking & Savings," 240,406 ",58,20201022
+8/7/2020,9:21:49 AM,OSUR,379254, $13.70 ,20%,$5.1M,DARK ISOAA,Equity,Medical Instruments & Equipment,Health Care Equipment," 1,891,260 ",61,20201104
+8/7/2020,1:58:56 PM,OXY,400000, $15.40 ,2%,$6.1M,BLOCK,Equity,Production & Extraction,Oil & Gas," 21,904,510 ",916,20200810
+8/7/2020,3:10:46 PM,PDD,234040, $88.20 ,3%,$20.0M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 8,576,297 ",1113,20200819
+8/7/2020,8:30:14 AM,PENN,192300, $45.00 ,2%,$8.6M,DARK BLOCK,Equity,"Hotels, Restaurants & Travel",Consumer Services," 9,665,730 ",114,20200806
+8/7/2020,9:33:55 AM,PENN,173100, $48.00 ,2%,$8.3M,DARK BLOCK,Equity,"Hotels, Restaurants & Travel",Consumer Services," 9,665,730 ",114,20200806
+8/7/2020,9:33:59 AM,PENN,251700, $48.00 ,3%,$12.0M,DARK BLOCK,Equity,"Hotels, Restaurants & Travel",Consumer Services," 9,665,730 ",114,20200806
+8/7/2020,3:00:05 PM,PEP,317616, $136.74 ,7%,$43.0M,DARK BLOCK,Equity,Beverages,Food & Beverage," 4,242,002 ",1382,20201001
+8/7/2020,3:43:46 PM,PEP,125510, $136.74 ,3%,$17.0M,DARK BLOCK,Equity,Beverages,Food & Beverage," 4,242,002 ",1382,20201001
+8/7/2020,8:38:43 AM,PFE,200000, $38.35 ,1%,$7.6M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 33,142,972 ",5550,20201103
+8/7/2020,1:30:26 PM,PG,225000, $132.84 ,3%,$29.0M,BLOCK,Equity,Household & Personal Products,Household & Personal Products," 7,042,814 ",2432,20201027
+8/7/2020,2:34:04 PM,PG,100000, $132.98 ,1%,$13.0M,BLOCK,Equity,Household & Personal Products,Household & Personal Products," 7,042,814 ",2432,20201027
+8/7/2020,3:43:46 PM,PG,223960, $133.55 ,3%,$29.0M,DARK BLOCK,Equity,Household & Personal Products,Household & Personal Products," 7,042,814 ",2432,20201027
+8/7/2020,11:14:31 AM,PINS,150000, $36.32 ,1%,$5.4M,DARK BLOCK,Equity,Entertainment,Media," 18,472,962 ",586,20201029
+8/7/2020,11:35:35 AM,PINS,284200, $35.59 ,2%,$10.0M,BLOCK,Equity,Entertainment,Media," 18,472,962 ",586,20201029
+8/7/2020,2:50:57 PM,PINS,168900, $35.16 ,1%,$5.9M,DARK BLOCK,Equity,Entertainment,Media," 18,472,962 ",586,20201029
+8/7/2020,3:43:46 PM,PM,101640, $77.50 ,2%,$7.8M,DARK BLOCK,Equity,Tobacco Products,Tobacco," 4,822,251 ",1553,20201015
+8/7/2020,3:00:09 PM,PNC,119900, $109.70 ,5%,$13.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 2,648,418 ",422,20201021
+8/7/2020,9:27:50 AM,PRAH,100000, $107.27 ,37%,$10.0M,DARK BLOCK,Equity,Biotechnology,Pharmaceuticals & Biotechnology," 273,129 ",62,20200806
+8/7/2020,3:02:16 PM,PTCT,742360, $47.83 ,81%,$35.0M,DARK AVGPRC,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 919,807 ",60,20201103
+8/7/2020,8:22:19 AM,PYPL,150000, $204.09 ,2%,$30.0M,DARK BLOCK,Equity,Miscellaneous Consumer Services,Consumer Services," 7,637,140 ",1171,20201028
+8/7/2020,2:12:41 PM,PYPL,155722, $198.23 ,2%,$30.0M,DARK BLOCK,Equity,Miscellaneous Consumer Services,Consumer Services," 7,637,140 ",1171,20201028
+8/7/2020,3:10:46 PM,PYPL,208753, $198.63 ,3%,$41.0M,DARK BLOCK,Equity,Miscellaneous Consumer Services,Consumer Services," 7,637,140 ",1171,20201028
+8/7/2020,7:11:25 AM,QGEN,142555, $46.87 ,9%,$6.6M,DARK BLOCK,Equity,Biotechnology,Pharmaceuticals & Biotechnology," 1,567,827 ",227,20201104
+8/7/2020,7:21:33 AM,QGEN,142555, $46.87 ,9%,$6.6M,DARK BLOCK,Equity,Biotechnology,Pharmaceuticals & Biotechnology," 1,567,827 ",227,20201104
+8/7/2020,8:59:12 AM,QSR,100000, $54.45 ,6%,$5.4M,DARK BLOCK,Equity,"Hotels, Restaurants & Travel",Consumer Services," 1,542,257 ",291,20200806
+8/7/2020,3:00:08 PM,REXR,238077, $47.90 ,10%,$11.0M,DARK BLOCK,Equity,REITs,Real Estate," 2,319,834 ",121,20201103
+8/7/2020,8:26:10 AM,RKT,200019, $25.21 ,0%,$5.0M,BLOCK,Equity,Finance Intermediaries & Services,Investments & Brokers," 110,798,112 ",138,20150729
+8/7/2020,4:00:14 PM,ROKU,105005, $156.39 ,1%,$16.0M,DARK BLOCK,Equity,Entertainment,Media," 9,856,240 ",119,20201104
+8/7/2020,1:41:37 PM,ROST,141515, $88.84 ,4%,$12.0M,BLOCK,Equity,Retail - Apparel and Accessories,Retail," 3,213,830 ",348,20200827
+8/7/2020,10:43:12 AM,RTX,136878, $60.23 ,2%,$8.2M,DARK BLOCK,Equity,Aerospace,Aerospace & Defense," 9,110,318 ",866,20201027
+8/7/2020,3:00:09 PM,RTX,100000, $61.23 ,1%,$6.1M,DARK BLOCK,Equity,Aerospace,Aerospace & Defense," 9,110,318 ",866,20201027
+8/7/2020,9:57:44 AM,SAIL,250000, $37.00 ,16%,$9.2M,DARK ISOBB,Equity,Internet & Software,IT Services & Software," 1,566,519 ",90,20200806
+8/7/2020,8:57:36 AM,SBUX,605390, $75.48 ,7%,$45.0M,DARK BLOCK,Equity,"Hotels, Restaurants & Travel",Consumer Services," 8,873,548 ",1164,20201104
+8/7/2020,8:57:36 AM,SCHW,553569, $33.02 ,5%,$18.0M,DARK BLOCK,Equity,Finance Intermediaries & Services,Investments & Brokers," 10,613,181 ",1148,20201020
+8/7/2020,3:03:56 PM,SEE,166300, $40.77 ,13%,$6.7M,DARK BLOCK,Equity,Containers & Packaging,Paper & Forest Products," 1,252,299 ",154,20200806
+8/7/2020,3:00:03 PM,SLM,1011393, $7.00 ,20%,$7.0M,DARK BLOCK,Equity,Credit & Lending,Credit & Lending," 4,956,149 ",373,20201028
+8/7/2020,3:11:12 PM,SMAR,170000, $44.00 ,10%,$7.4M,DARK AVGPRC,Equity,IT Services,IT Services & Software," 1,656,275 ",119,20200902
+8/7/2020,3:01:11 PM,SNAP,1313744, $21.61 ,4%,$28.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 29,406,555 ",1457,20201027
+8/7/2020,3:10:46 PM,SNAP,298694, $21.58 ,1%,$6.4M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 29,406,555 ",1457,20201027
+8/7/2020,9:44:34 AM,SNY,134216, $51.29 ,13%,$6.8M,DARK AVGPRC,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 1,019,431 ",2479,20201029
+8/7/2020,10:08:30 AM,SNY,105212, $51.36 ,10%,$5.4M,DARK AVGPRC,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 1,019,431 ",2479,20201029
+8/7/2020,2:18:22 PM,SNY,307012, $51.41 ,30%,$15.0M,DARK AVGPRC,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 1,019,431 ",2479,20201029
+8/7/2020,2:51:05 PM,SPG,170000, $62.38 ,3%,$10.0M,DARK BLOCK,Equity,REITs,Real Estate," 5,779,220 ",291,20200810
+8/7/2020,8:21:50 AM,SQ,100000, $154.00 ,1%,$15.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 14,960,476 ",343,20201104
+8/7/2020,8:48:17 AM,ST,154700, $39.55 ,11%,$6.1M,DARK BLOCK,Equity,Electrical Equipment,Electrical Equipment," 1,400,450 ",157,20201104
+8/7/2020,10:55:39 AM,STNE,100000, $50.00 ,5%,$5.0M,DARK BLOCK,Equity,IT Services,IT Services & Software," 2,112,411 ",277,20200812
+8/7/2020,10:29:42 AM,SYY,100000, $58.39 ,3%,$5.8M,DARK BLOCK,Equity,"Retail - Food & Beverage, Drug & Tobacco",Retail," 3,044,096 ",481,20200811
+8/7/2020,10:50:57 AM,SYY,117774, $58.50 ,4%,$6.8M,DARK BLOCK,Equity,"Retail - Food & Beverage, Drug & Tobacco",Retail," 3,044,096 ",481,20200811
+8/7/2020,8:57:36 AM,T,256898, $29.70 ,1%,$7.6M,DARK BLOCK,Equity,Services,Communications," 35,672,575 ",7177,20201026
+8/7/2020,9:00:09 AM,T,256898, $29.70 ,1%,$7.6M,DARK BLOCK,Equity,Services,Communications," 35,672,575 ",7177,20201026
+8/7/2020,9:54:53 AM,TEAM,125000, $175.75 ,6%,$21.0M,DARK ISO,Equity,IT Services,IT Services & Software," 2,021,078 ",121,20201015
+8/7/2020,3:03:47 PM,TIF,225000, $124.82 ,19%,$28.0M,DARK BLOCK,Equity,Retail - Specialty,Retail," 1,201,348 ",120,20200826
+8/7/2020,9:19:07 AM,TJX,150000, $53.95 ,3%,$8.0M,DARK BLOCK,Equity,Retail - Apparel and Accessories,Retail," 5,967,614 ",1195,20200818
+8/7/2020,8:35:18 AM,TNDM,113500, $105.85 ,9%,$12.0M,DARK BLOCK,Equity,Medical Instruments & Equipment,Health Care Equipment," 1,222,512 ",60,20201102
+8/7/2020,3:00:12 PM,TSN,119202, $62.80 ,5%,$7.4M,DARK BLOCK,Equity,Food,Food & Beverage," 2,307,805 ",358,20201110
+8/7/2020,11:49:56 AM,TWLO,141587, $255.50 ,4%,$36.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 3,260,242 ",140,20201104
+8/7/2020,11:53:04 AM,TWLO,141587, $255.50 ,4%,$36.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 3,260,242 ",140,20201104
+8/7/2020,9:48:49 AM,TWLO,141000, $256.20 ,4%,$36.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 3,260,242 ",140,20201104
+8/7/2020,8:25:23 AM,TXN,125000, $133.74 ,3%,$16.0M,BLOCK,Equity,Semiconductors,IT Hardware," 4,889,049 ",909,20201027
+8/7/2020,8:20:44 AM,UBER,200000, $33.35 ,1%,$6.6M,DARK BLOCK,Equity,IT Services,IT Services & Software," 19,796,963 ",1733,20200806
+8/7/2020,8:39:29 AM,UBER,250000, $33.21 ,1%,$8.3M,DARK BLOCK,Equity,IT Services,IT Services & Software," 19,796,963 ",1733,20200806
+8/7/2020,8:57:13 AM,UBER,247700, $33.22 ,1%,$8.2M,DARK ISOAA,Equity,IT Services,IT Services & Software," 19,796,963 ",1733,20200806
+8/7/2020,9:06:39 AM,UBER,315000, $32.82 ,2%,$10.0M,DARK BLOCK,Equity,IT Services,IT Services & Software," 19,796,963 ",1733,20200806
+8/7/2020,9:15:02 AM,UBER,174100, $33.00 ,1%,$5.7M,DARK ISOAA,Equity,IT Services,IT Services & Software," 19,796,963 ",1733,20200806
+8/7/2020,11:12:36 AM,UN,537560, $58.24 ,31%,$31.0M,DARK BLOCK,Equity,Household & Personal Products,Household & Personal Products," 1,718,716 ",1714,TBA
+8/7/2020,11:13:16 AM,UN,537560, $58.24 ,31%,$31.0M,DARK BLOCK,Equity,Household & Personal Products,Household & Personal Products," 1,718,716 ",1714,TBA
+8/7/2020,11:13:41 AM,UN,537560, $58.24 ,31%,$31.0M,DARK AVGPRC,Equity,Household & Personal Products,Household & Personal Products," 1,718,716 ",1714,TBA
+8/7/2020,3:00:25 PM,USB,138357, $37.33 ,2%,$5.1M,DARK AVGPRC,Equity,Banking,Banking & Savings," 6,817,566 ",1502,20201021
+8/7/2020,10:33:35 AM,VALE,550000, $11.26 ,2%,$6.1M,DARK BLOCK,Equity,Non-Precious Metals,Metals & Mining," 27,205,999 ",5128,20201022
+8/7/2020,2:43:13 PM,VALE,500000, $11.15 ,2%,$5.5M,DARK BLOCK,Equity,Non-Precious Metals,Metals & Mining," 27,205,999 ",5128,20201022
+8/7/2020,3:10:57 PM,VAR,183300, $173.82 ,14%,$31.0M,DARK BLOCK,Equity,Medical Instruments & Equipment,Health Care Equipment," 1,295,260 ",90,20201028
+8/7/2020,1:14:19 PM,VIAC,238700, $25.70 ,2%,$6.1M,DARK BLOCK,Equity,Radio & Television,Media," 9,908,904 ",615,20200806
+8/7/2020,3:00:06 PM,VIAC,250000, $26.21 ,3%,$6.5M,DARK BLOCK,Equity,Radio & Television,Media," 9,908,904 ",615,20200806
+8/7/2020,3:00:10 PM,VNO,165800, $35.55 ,9%,$5.8M,DARK BLOCK,Equity,REITs,Real Estate," 1,929,426 ",175,20201026
+8/7/2020,3:00:07 PM,VZ,339463, $58.53 ,2%,$19.0M,DARK BLOCK,Equity,Services,Communications," 14,419,572 ",4135,20201023
+8/7/2020,3:00:51 PM,VZ,140600, $58.53 ,1%,$8.2M,DARK BLOCK,Equity,Services,Communications," 14,419,572 ",4135,20201023
+8/7/2020,8:57:36 AM,WFC,1864696, $24.09 ,4%,$44.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 46,084,453 ",4096,20201020
+8/7/2020,9:20:26 AM,WFC,727600, $24.27 ,2%,$17.0M,DARK ISO,Equity,Banking,Banking & Savings," 46,084,453 ",4096,20201020
+8/7/2020,9:35:48 AM,WFC,261444, $24.27 ,1%,$6.3M,DARK AVGPRC,Equity,Banking,Banking & Savings," 46,084,453 ",4096,20201020
+8/7/2020,12:10:12 PM,WFC,435700, $24.75 ,1%,$10.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 46,084,453 ",4096,20201020
+8/7/2020,3:02:30 PM,WFC,2321600, $25.07 ,5%,$58.0M,DARK BLOCK,Equity,Banking,Banking & Savings," 46,084,453 ",4096,20201020
+8/7/2020,3:02:16 PM,WMS,410216, $55.50 ,111%,$22.0M,DARK AVGPRC,Equity,Plastics,Synthetic Materials," 370,591 ",69,20200806
+8/7/2020,3:00:10 PM,WMT,142601, $129.97 ,2%,$18.0M,DARK BLOCK,Equity,Retail - General Merchandise/Department Stores,Retail," 8,330,789 ",1404,20200818
+8/7/2020,3:43:46 PM,WMT,128095, $129.97 ,2%,$16.0M,DARK BLOCK,Equity,Retail - General Merchandise/Department Stores,Retail," 8,330,789 ",1404,20200818
+8/7/2020,10:33:20 AM,WPC,100000, $71.60 ,12%,$7.1M,DARK BLOCK,Equity,REITs,Real Estate," 846,996 ",170,20201106
+8/7/2020,11:19:22 AM,WPF,500000, $10.16 ,143%,$5.0M,DARK ISOBB,Equity,Services,Communications," 348,976 ",29,N/A
+8/7/2020,11:50:43 AM,WPF,500000, $10.16 ,143%,$5.0M,DARK ISOBB,Equity,Services,Communications," 348,976 ",29,N/A
+8/7/2020,1:03:47 PM,WU,280000, $23.00 ,5%,$6.4M,DARK BLOCK,Equity,Business Services,Commercial Services & Supplies," 5,596,226 ",405,20201029
+8/7/2020,2:56:23 PM,WUBA,133300, $55.76 ,7%,$7.4M,DARK BLOCK,Equity,IT Services,IT Services & Software," 1,858,651 ",131,20200819
+8/7/2020,3:14:19 PM,WUBA,320000, $55.70 ,17%,$17.0M,DARK AVGPRC,Equity,IT Services,IT Services & Software," 1,858,651 ",131,20200819
+8/7/2020,3:02:16 PM,XLRN,292922, $99.12 ,28%,$29.0M,DARK AVGPRC,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 1,031,841 ",52,20200806
+8/7/2020,2:57:26 PM,XOM,180000, $43.31 ,1%,$7.7M,DARK BLOCK,Equity,Production & Extraction,Oil & Gas," 20,320,690 ",4226,20201106
+8/7/2020,3:18:51 PM,XOM,168830, $43.30 ,1%,$7.3M,DARK BLOCK,Equity,Production & Extraction,Oil & Gas," 20,320,690 ",4226,20201106
+8/7/2020,3:44:28 PM,XOM,192440, $43.44 ,1%,$8.3M,DARK BLOCK,Equity,Production & Extraction,Oil & Gas," 20,320,690 ",4226,20201106
+8/7/2020,10:40:30 AM,Z,375408, $83.57 ,12%,$31.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 3,171,811 ",212,20200514
+8/7/2020,12:26:01 PM,Z,100000, $82.12 ,3%,$8.2M,BLOCK,Equity,Internet & Software,IT Services & Software," 3,171,811 ",212,20200514
+8/7/2020,3:10:46 PM,Z,138193, $79.76 ,4%,$11.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 3,171,811 ",212,20200514
+8/7/2020,3:00:06 PM,ZEN,276800, $88.38 ,12%,$24.0M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 2,277,620 ",109,20201103
+8/7/2020,3:10:46 PM,ZLAB,197790, $80.35 ,63%,$15.0M,DARK BLOCK,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology," 312,274 ",58,20200813
+8/7/2020,8:48:55 AM,ZNGA,983100, $9.70 ,5%,$9.5M,DARK ISOBB,Equity,Internet & Software,IT Services & Software," 19,796,876 ",866,20201104
+8/7/2020,9:36:25 AM,ZNGA,556900, $9.70 ,3%,$5.4M,DARK ISOBB,Equity,Internet & Software,IT Services & Software," 19,796,876 ",866,20201104
+8/7/2020,9:49:15 AM,ZNGA,1000000, $9.87 ,5%,$9.8M,DARK BLOCK,Equity,Internet & Software,IT Services & Software," 19,796,876 ",866,20201104
+8/7/2020,3:00:06 PM,ZTO,209593, $36.34 ,10%,$7.6M,DARK BLOCK,Equity,Shipping,Transport," 2,119,233 ",579,20200812
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
